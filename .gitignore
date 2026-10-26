@@ -1,0 +1,4 @@
+site/outages.parquet
+site/summary.json
+site/latest.geojson
+site/psps-latest.geojson
