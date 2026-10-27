@@ -1,7 +1,7 @@
 # sce-outages
 
 Git-scrapes Southern California Edison's public outage map for Los Angeles and
-Ventura counties every 3 hours and publishes a map with a time scrubber on
+Ventura counties every hour and publishes a map with a time scrubber on
 GitHub Pages. Same idea as [simonw/scrape-florida-outages](https://github.com/simonw/scrape-florida-outages),
 plus a built site.
 
@@ -35,6 +35,7 @@ Change counties with the `SCE_WHERE` env var in the workflow, e.g.
 
 ```bash
 scripts/scrape.sh                       # needs curl + jq
+scripts/fetch-archive.sh                # optional: pull data-* release archives (needs gh)
 uv run scripts/build.py                 # writes site/outages.parquet, site/summary.json
 python3 -m http.server -d site 8000     # http://localhost:8000
 ```
@@ -47,8 +48,12 @@ duckdb -c "SELECT scraped_at, count(*), sum(customers) FROM 'site/outages.parque
 
 ## Notes
 
-- Snapshots every 3 h miss outages shorter than that. Change the cron for finer
-  resolution; cost is Actions minutes and ~1 kB per outage per snapshot.
+- Hourly snapshots miss outages shorter than ~1 h.
+- Repo growth is ~1 kB per outage per snapshot. Every Jan 2, `archive.yml`
+  squashes the previous year's NDJSON into `snapshots-YYYY.parquet`, attaches
+  it to a `data-YYYY` release, and removes the NDJSON from the tree. The hourly
+  job downloads those archives before building, so the site keeps full history.
+  Run it by hand for any year: Actions → "Archive previous year" → year.
 - `LastChngDateTime` and `ERT` arrive as Pacific-local strings without a zone;
   `build.py` converts them to UTC. `OutageStartDateTime` is epoch ms, converted
   to ISO in `scrape.sh`.
