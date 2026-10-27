@@ -19,11 +19,24 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 SNAP = ROOT / "data" / "snapshots"
 SITE = ROOT / "site"
 
-if not any(SNAP.glob("*.ndjson")):
-    sys.exit("no snapshots in data/snapshots/; run scripts/scrape.sh first")
+ARCH = ROOT / "data" / "archive"
+
+live = sorted(SNAP.glob("*.ndjson"))
+archived = sorted(ARCH.glob("snapshots-*.parquet"))
+if not live and not archived:
+    sys.exit("no data/snapshots/*.ndjson or data/archive/*.parquet; run scripts/scrape.sh first")
 
 con = duckdb.connect()
 con.execute("SET TimeZone='UTC'")
+
+# AIDEV-NOTE: raw rows come from two places with identical columns: live NDJSON
+# (this year) and yearly Parquet archives fetched from data-* releases.
+parts = []
+if live:
+    parts.append(f"SELECT * FROM read_ndjson({[f.as_posix() for f in live]}, union_by_name = true, ignore_errors = true)")
+if archived:
+    parts.append(f"SELECT * FROM read_parquet({[f.as_posix() for f in archived]}, union_by_name = true)")
+con.execute("CREATE VIEW raw AS " + " UNION ALL BY NAME ".join(parts))
 
 # AIDEV-NOTE: LastChngDateTime / ERT are naive Pacific-local strings
 # ('10/26/2026 03:34:42 PM'); OutageStartDateTime was already ISO-UTC'd by jq.
@@ -56,8 +69,7 @@ SELECT
            try_strptime(ERT, '%m/%d/%Y %I:%M:%S %p'))       AS ert_utc,
   ERT_LOC                                                   AS ert_text,
   RO_Group_Numbers                                          AS ro_groups
-FROM read_ndjson('{SNAP.as_posix()}/*.ndjson',
-                 union_by_name = true, ignore_errors = true)
+FROM raw
 ORDER BY scraped_at, incident_id
 """)
 
