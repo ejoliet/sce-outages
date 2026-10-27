@@ -42,9 +42,9 @@ jobs:
 
       - uses: astral-sh/setup-uv@v5
 
-      - name: Fetch yearly archives from releases
-        env: { GH_TOKEN: "${{ github.token }}" }
-        run: scripts/fetch-archive.sh
+      # - name: Fetch yearly archives from releases
+      #   env: { GH_TOKEN: "${{ github.token }}" }
+      #   run: scripts/fetch-archive.sh
 
       - name: Build parquet + summary
         run: uv run scripts/build.py
