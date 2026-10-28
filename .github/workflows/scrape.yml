@@ -3,7 +3,7 @@ name: Scrape SCE outages
 on:
   workflow_dispatch:
   schedule:
-    - cron: '43 * * * *'   # hourly, off the hour to dodge GitHub's cron pile-up
+    - cron: '07 * * * *'   # hourly, off the hour to dodge GitHub's cron pile-up
   push:
     branches: [main]
     paths: ['scripts/**', 'site/**', '.github/workflows/scrape.yml']
