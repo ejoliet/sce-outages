@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "scraped_at": "2026-11-07T00:50:08Z",
+  "scraped_at": "2026-11-07T06:59:39Z",
   "features": [
     {
       "type": "Feature",
@@ -41964,7 +41964,7 @@
         "StatusPrevDt": null,
         "CreationDate": null,
         "Creator": null,
-        "EditDate": 1793995647000,
+        "EditDate": 1794012162000,
         "Editor": null,
         "PspsStatusTimeStamp": null,
         "D4_0_3": null,
@@ -41983,7 +41983,7 @@
         "D5_15_18": null,
         "D5_18_21": null,
         "D5_21_24": null,
-        "PSPS_Details": "Monitored",
+        "PSPS_Details": "De-Energization Expected",
         "Shape_Length": 8132.8283445099496,
         "Shape_Area": 4239222.7221980141,
         "AGOLObjectID": 353949,
@@ -44148,7 +44148,7 @@
         "StatusPrevDt": null,
         "CreationDate": null,
         "Creator": null,
-        "EditDate": 1793995647000,
+        "EditDate": 1794012160000,
         "Editor": null,
         "PspsStatusTimeStamp": null,
         "D4_0_3": null,
@@ -44167,7 +44167,7 @@
         "D5_15_18": null,
         "D5_18_21": null,
         "D5_21_24": null,
-        "PSPS_Details": "Monitored",
+        "PSPS_Details": "De-Energization Expected",
         "Shape_Length": 5812.3206678453316,
         "Shape_Area": 2348644.0203569704,
         "AGOLObjectID": 354012,
