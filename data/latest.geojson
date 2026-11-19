@@ -1,43 +1,43 @@
 {
   "type": "FeatureCollection",
-  "scraped_at": "2026-11-19T03:08:55Z",
+  "scraped_at": "2026-11-19T12:48:04Z",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.89494774081143,
-          34.054435419187612
+          -118.86115058118385,
+          34.037609879969757
         ]
       },
       "properties": {
         "OBJECTID": 2,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
-        "NoOfAffectedCust_Inci": 3,
+        "NoOfAffectedCust_Inci": 35,
         "ZipcodeName": "90265",
         "DistrictNo": "35",
-        "IncidentType": "QI",
-        "IncidentId": 136970157,
+        "IncidentType": "Not Available",
+        "IncidentId": 136974776,
         "SectorNo": "MOORPARK",
-        "JobStatus": "F",
-        "OanNo": 800593337,
-        "OutageStartDateTime": 1794995648000,
-        "LastChngDateTime": "11/18/2026 06:58:10 PM",
-        "ERT": "Not Available",
+        "JobStatus": "W",
+        "OanNo": 800593584,
+        "OutageStartDateTime": 1795057553000,
+        "LastChngDateTime": "11/19/2026 04:41:28 AM",
+        "ERT": "11/19/2026 06:00:00 AM",
         "MemoCauseCd": 16,
         "MemoCauseCdDesc": "Equipment Problems",
         "CrewStatusCd": 4,
         "CrewStatusCdDesc": "Work is in progress.",
         "ResultCd": 0,
         "ResultCdDesc": "Not Available",
-        "ERTCd": 2,
+        "ERTCd": 6,
         "created_user": null,
         "created_date": null,
         "last_edited_user": null,
         "last_edited_date": null,
-        "ERT_LOC": "Most up by 11/18/2026 07:00:00 PM",
+        "ERT_LOC": "Most up by ",
         "RO_Group_Numbers": null,
         "Future_RO_Groups": null,
         "Flag": 1,
@@ -53,307 +53,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.36343177376592,
-          33.790178205054104
-        ]
-      },
-      "properties": {
-        "OBJECTID": 4,
-        "CountyName": "LOS ANGELES",
-        "CityName": "ROLLING HILLS ESTATES",
-        "NoOfAffectedCust_Inci": 5,
-        "ZipcodeName": "90274",
-        "DistrictNo": "44",
-        "IncidentType": "QI",
-        "IncidentId": 136972121,
-        "SectorNo": "EL NIDO",
-        "JobStatus": "W",
-        "OanNo": 800593451,
-        "OutageStartDateTime": 1795017636000,
-        "LastChngDateTime": "11/18/2026 04:49:58 PM",
-        "ERT": "11/18/2026 08:30:00 PM",
-        "MemoCauseCd": 16,
-        "MemoCauseCdDesc": "Equipment Problems",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 0,
-        "ResultCdDesc": "Not Available",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "07",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.97165661661047,
-          33.978329399606807
-        ]
-      },
-      "properties": {
-        "OBJECTID": 5,
-        "CountyName": "LOS ANGELES",
-        "CityName": "HACIENDA HEIGHTS",
-        "NoOfAffectedCust_Inci": 181,
-        "ZipcodeName": "91745",
-        "DistrictNo": "26",
-        "IncidentType": "PO",
-        "IncidentId": 136887176,
-        "SectorNo": "MIRA LOMA",
-        "JobStatus": "W",
-        "OanNo": 800590457,
-        "OutageStartDateTime": 1794990611000,
-        "LastChngDateTime": "11/18/2026 03:58:37 PM",
-        "ERT": "11/18/2026 08:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "06",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.19171144730936,
-          34.02192571898857
+          -119.22943932386355,
+          34.251913684713706
         ]
       },
       "properties": {
         "OBJECTID": 6,
-        "CountyName": "LOS ANGELES",
-        "CityName": "EAST LOS ANGELES",
-        "NoOfAffectedCust_Inci": 3,
-        "ZipcodeName": "90023",
-        "DistrictNo": "22",
-        "IncidentType": "QI",
-        "IncidentId": 136972253,
-        "SectorNo": "MESA",
-        "JobStatus": "W",
-        "OanNo": 800593437,
-        "OutageStartDateTime": 1795019509000,
-        "LastChngDateTime": "11/18/2026 05:11:54 PM",
-        "ERT": "11/18/2026 09:00:00 PM",
-        "MemoCauseCd": 16,
-        "MemoCauseCdDesc": "Equipment Problems",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 0,
-        "ResultCdDesc": "Not Available",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "07",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.07313529675444,
-          34.574587918343362
-        ]
-      },
-      "properties": {
-        "OBJECTID": 7,
-        "CountyName": "LOS ANGELES",
-        "CityName": "PALMDALE",
-        "NoOfAffectedCust_Inci": 101,
-        "ZipcodeName": "93550",
-        "DistrictNo": "36",
-        "IncidentType": "Not Available",
-        "IncidentId": 136970327,
-        "SectorNo": "VINCENT",
-        "JobStatus": "F",
-        "OanNo": 800593382,
-        "OutageStartDateTime": 1794998026000,
-        "LastChngDateTime": "11/18/2026 06:01:00 PM",
-        "ERT": "11/18/2026 11:00:00 PM",
-        "MemoCauseCd": 16,
-        "MemoCauseCdDesc": "Equipment Problems",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 0,
-        "ResultCdDesc": "Not Available",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "01",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.39897238729016,
-          33.860173659306817
-        ]
-      },
-      "properties": {
-        "OBJECTID": 17,
-        "CountyName": "LOS ANGELES",
-        "CityName": "HERMOSA BEACH",
-        "NoOfAffectedCust_Inci": 58,
-        "ZipcodeName": "90254",
-        "DistrictNo": "44",
-        "IncidentType": "PO",
-        "IncidentId": 136896247,
-        "SectorNo": "EL NIDO",
-        "JobStatus": "D",
-        "OanNo": 800590850,
-        "OutageStartDateTime": 1794990600000,
-        "LastChngDateTime": "11/18/2026 06:17:50 PM",
-        "ERT": "11/18/2026 10:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "06",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.19852550920089,
-          33.869182336982334
-        ]
-      },
-      "properties": {
-        "OBJECTID": 19,
-        "CountyName": "LOS ANGELES",
-        "CityName": "LONG BEACH",
-        "NoOfAffectedCust_Inci": 72,
-        "ZipcodeName": "90805",
-        "DistrictNo": "46",
-        "IncidentType": "PO",
-        "IncidentId": 136877664,
-        "SectorNo": "LIGHTHIPE",
-        "JobStatus": "F",
-        "OanNo": 800589572,
-        "OutageStartDateTime": 1794988839000,
-        "LastChngDateTime": "11/18/2026 06:52:40 PM",
-        "ERT": "Most up by 11/18/2026 06:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 9,
-        "CrewStatusCdDesc": "We have completed this repair.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 9,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by 11/18/2026 06:00:00 PM",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "18",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.19666672964847,
-          34.478733586925784
-        ]
-      },
-      "properties": {
-        "OBJECTID": 20,
         "CountyName": "VENTURA",
-        "CityName": "Unincorporated Area",
-        "NoOfAffectedCust_Inci": 11,
-        "ZipcodeName": "93023",
+        "CityName": "SAN BUENAVENTURA (VENTURA)",
+        "NoOfAffectedCust_Inci": 126,
+        "ZipcodeName": "93003",
         "DistrictNo": "39",
-        "IncidentType": "PO",
-        "IncidentId": 136877280,
+        "IncidentType": "Not Available",
+        "IncidentId": 136972761,
         "SectorNo": "SANTA CLARA",
-        "JobStatus": "W",
-        "OanNo": 800589456,
-        "OutageStartDateTime": 1794990604000,
-        "LastChngDateTime": "11/18/2026 06:06:27 PM",
-        "ERT": "11/18/2026 11:00:00 PM",
-        "MemoCauseCd": 21,
-        "MemoCauseCdDesc": "Pole Upgrade",
+        "JobStatus": "F",
+        "OanNo": 800593459,
+        "OutageStartDateTime": 1795034501000,
+        "LastChngDateTime": "11/19/2026 04:02:13 AM",
+        "ERT": "11/19/2026 01:30:00 PM",
+        "MemoCauseCd": 16,
+        "MemoCauseCdDesc": "Equipment Problems",
         "CrewStatusCd": 4,
         "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
+        "ResultCd": 0,
+        "ResultCdDesc": "Not Available",
         "ERTCd": 6,
         "created_user": null,
         "created_date": null,
@@ -366,53 +90,7 @@
         "Circuit_Number": null,
         "Status": "ACTIVE",
         "OutageType": null,
-        "ProblemCode": "06",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.39673361132897,
-          33.86023302732309
-        ]
-      },
-      "properties": {
-        "OBJECTID": 21,
-        "CountyName": "LOS ANGELES",
-        "CityName": "HERMOSA BEACH",
-        "NoOfAffectedCust_Inci": 774,
-        "ZipcodeName": "90254",
-        "DistrictNo": "44",
-        "IncidentType": "PO",
-        "IncidentId": 136896360,
-        "SectorNo": "EL NIDO",
-        "JobStatus": "W",
-        "OanNo": 800590908,
-        "OutageStartDateTime": 1794990600000,
-        "LastChngDateTime": "11/18/2026 06:56:14 PM",
-        "ERT": "11/18/2026 10:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "06",
+        "ProblemCode": "03",
         "feed": "active"
       }
     },
@@ -794,7 +472,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 21,
+        "OBJECTID": 20,
         "CountyName": "LOS ANGELES",
         "CityName": "LANCASTER",
         "NoOfAffectedCust_Inci": 71,
@@ -840,7 +518,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 23,
+        "OBJECTID": 22,
         "CountyName": "LOS ANGELES",
         "CityName": "ROLLING HILLS",
         "NoOfAffectedCust_Inci": 4,
@@ -886,7 +564,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 24,
+        "OBJECTID": 23,
         "CountyName": "LOS ANGELES",
         "CityName": "HUNTINGTON PARK",
         "NoOfAffectedCust_Inci": 31,
@@ -932,7 +610,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 25,
+        "OBJECTID": 24,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTLAKE VILLAGE",
         "NoOfAffectedCust_Inci": 52,
@@ -978,7 +656,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 26,
+        "OBJECTID": 25,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 360,
@@ -1024,7 +702,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 28,
+        "OBJECTID": 27,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 116,
@@ -1070,7 +748,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 30,
+        "OBJECTID": 29,
         "CountyName": "LOS ANGELES",
         "CityName": "BEVERLY HILLS",
         "NoOfAffectedCust_Inci": 1,
@@ -1162,7 +840,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 36,
+        "OBJECTID": 35,
         "CountyName": "LOS ANGELES",
         "CityName": "HUNTINGTON PARK",
         "NoOfAffectedCust_Inci": 1,
@@ -1208,7 +886,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 38,
+        "OBJECTID": 37,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -1254,7 +932,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 40,
+        "OBJECTID": 39,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 68,
@@ -1300,7 +978,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 43,
+        "OBJECTID": 42,
         "CountyName": "LOS ANGELES",
         "CityName": "DOWNEY",
         "NoOfAffectedCust_Inci": 18,
@@ -1346,7 +1024,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 46,
+        "OBJECTID": 45,
         "CountyName": "VENTURA",
         "CityName": "PORT HUENEME",
         "NoOfAffectedCust_Inci": 231,
@@ -1392,7 +1070,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 48,
+        "OBJECTID": 47,
         "CountyName": "LOS ANGELES",
         "CityName": "TORRANCE",
         "NoOfAffectedCust_Inci": 34,
@@ -1406,6 +1084,52 @@
         "OutageStartDateTime": 1795080600000,
         "LastChngDateTime": "11/07/2026 09:58:15 AM",
         "ERT": "11/19/2026 05:00:00 PM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "06",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.38516871742921,
+          33.924442114674619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "CountyName": "LOS ANGELES",
+        "CityName": "EL SEGUNDO",
+        "NoOfAffectedCust_Inci": 2,
+        "ZipcodeName": "90245",
+        "DistrictNo": "44",
+        "IncidentType": "PO",
+        "IncidentId": 136917000,
+        "SectorNo": "EL NIDO",
+        "JobStatus": "Z",
+        "OanNo": 800591632,
+        "OutageStartDateTime": 1795165200000,
+        "LastChngDateTime": "11/12/2026 12:43:24 PM",
+        "ERT": "11/20/2026 03:00:00 PM",
         "MemoCauseCd": 7,
         "MemoCauseCdDesc": "Upgrading Equipment",
         "CrewStatusCd": 4,
@@ -1525,52 +1249,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.38516871742921,
-          33.924442114674619
-        ]
-      },
-      "properties": {
-        "OBJECTID": 57,
-        "CountyName": "LOS ANGELES",
-        "CityName": "EL SEGUNDO",
-        "NoOfAffectedCust_Inci": 2,
-        "ZipcodeName": "90245",
-        "DistrictNo": "44",
-        "IncidentType": "PO",
-        "IncidentId": 136917000,
-        "SectorNo": "EL NIDO",
-        "JobStatus": "Z",
-        "OanNo": 800591632,
-        "OutageStartDateTime": 1795165200000,
-        "LastChngDateTime": "11/12/2026 12:43:24 PM",
-        "ERT": "11/20/2026 03:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "06",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.39751427785359,
           34.659206518724162
         ]
@@ -1622,7 +1300,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 60,
+        "OBJECTID": 59,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 78,
@@ -1668,7 +1346,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 62,
+        "OBJECTID": 61,
         "CountyName": "LOS ANGELES",
         "CityName": "MONTEBELLO",
         "NoOfAffectedCust_Inci": 17,
@@ -1714,7 +1392,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 65,
+        "OBJECTID": 64,
         "CountyName": "LOS ANGELES",
         "CityName": "HACIENDA HEIGHTS",
         "NoOfAffectedCust_Inci": 34,
@@ -1760,7 +1438,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 68,
+        "OBJECTID": 67,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 3,
@@ -1806,7 +1484,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 72,
+        "OBJECTID": 71,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 3,
@@ -1852,7 +1530,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 73,
+        "OBJECTID": 72,
         "CountyName": "LOS ANGELES",
         "CityName": "PARAMOUNT",
         "NoOfAffectedCust_Inci": 3,
@@ -1898,7 +1576,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 76,
+        "OBJECTID": 75,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COVINA",
         "NoOfAffectedCust_Inci": 315,
@@ -1944,7 +1622,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 78,
+        "OBJECTID": 77,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COVINA",
         "NoOfAffectedCust_Inci": 14,
@@ -1990,7 +1668,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 82,
+        "OBJECTID": 81,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 431,
@@ -2036,7 +1714,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 92,
+        "OBJECTID": 91,
         "CountyName": "LOS ANGELES",
         "CityName": "PARAMOUNT",
         "NoOfAffectedCust_Inci": 20,
@@ -2082,7 +1760,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 94,
+        "OBJECTID": 93,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 227,
@@ -2128,7 +1806,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 101,
+        "OBJECTID": 100,
         "CountyName": "VENTURA",
         "CityName": "OAK VIEW",
         "NoOfAffectedCust_Inci": 15,
@@ -2161,6 +1839,52 @@
         "Status": "ACTIVE",
         "OutageType": "S",
         "ProblemCode": "18",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98747226207787,
+          34.134750026448756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "CountyName": "LOS ANGELES",
+        "CityName": "MONROVIA",
+        "NoOfAffectedCust_Inci": 6,
+        "ZipcodeName": "91016",
+        "DistrictNo": "27",
+        "IncidentType": "PO",
+        "IncidentId": 136779084,
+        "SectorNo": "MESA",
+        "JobStatus": "Z",
+        "OanNo": 800583713,
+        "OutageStartDateTime": 1796248800000,
+        "LastChngDateTime": "11/13/2026 03:13:13 PM",
+        "ERT": "12/03/2026 03:00:00 AM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "20",
         "feed": "scheduled"
       }
     },
@@ -2312,7 +2036,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 124,
+        "OBJECTID": 123,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH PASADENA",
         "NoOfAffectedCust_Inci": 47,
@@ -2358,7 +2082,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 126,
+        "OBJECTID": 125,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 7,
@@ -2404,7 +2128,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 128,
+        "OBJECTID": 127,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA MONICA",
         "NoOfAffectedCust_Inci": 184,
@@ -2450,7 +2174,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 132,
+        "OBJECTID": 131,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 26,
@@ -2496,7 +2220,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 133,
+        "OBJECTID": 132,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 11,
@@ -2542,7 +2266,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 135,
+        "OBJECTID": 133,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL",
         "NoOfAffectedCust_Inci": 54,
@@ -2588,7 +2312,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 139,
+        "OBJECTID": 137,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 4,
@@ -2634,7 +2358,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 140,
+        "OBJECTID": 138,
         "CountyName": "LOS ANGELES",
         "CityName": "INDUSTRY",
         "NoOfAffectedCust_Inci": 1,
@@ -2680,7 +2404,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 146,
+        "OBJECTID": 144,
         "CountyName": "LOS ANGELES",
         "CityName": "MANHATTAN BEACH",
         "NoOfAffectedCust_Inci": 7,
@@ -2726,7 +2450,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 147,
+        "OBJECTID": 145,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 9,
@@ -2772,7 +2496,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 150,
+        "OBJECTID": 148,
         "CountyName": "LOS ANGELES",
         "CityName": "ROLLING HILLS ESTATES",
         "NoOfAffectedCust_Inci": 80,
@@ -2818,7 +2542,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 151,
+        "OBJECTID": 149,
         "CountyName": "LOS ANGELES",
         "CityName": "LENNOX",
         "NoOfAffectedCust_Inci": 17,
@@ -2864,7 +2588,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 152,
+        "OBJECTID": 150,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 2,
@@ -2910,7 +2634,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 154,
+        "OBJECTID": 152,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 26,
@@ -2956,7 +2680,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 156,
+        "OBJECTID": 154,
         "CountyName": "LOS ANGELES",
         "CityName": "DEL AIRE",
         "NoOfAffectedCust_Inci": 9,
@@ -3002,7 +2726,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 157,
+        "OBJECTID": 155,
         "CountyName": "LOS ANGELES",
         "CityName": "HIDDEN HILLS",
         "NoOfAffectedCust_Inci": 2,
@@ -3048,7 +2772,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 158,
+        "OBJECTID": 156,
         "CountyName": "LOS ANGELES",
         "CityName": "AGOURA HILLS",
         "NoOfAffectedCust_Inci": 28,
@@ -3094,7 +2818,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 162,
+        "OBJECTID": 160,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 6,
@@ -3140,7 +2864,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 166,
+        "OBJECTID": 164,
         "CountyName": "LOS ANGELES",
         "CityName": "WILLOWBROOK",
         "NoOfAffectedCust_Inci": 5,
@@ -3186,7 +2910,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 167,
+        "OBJECTID": 165,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 135,
@@ -3232,7 +2956,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 170,
+        "OBJECTID": 168,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -3278,7 +3002,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 173,
+        "OBJECTID": 171,
         "CountyName": "VENTURA",
         "CityName": "SANTA PAULA",
         "NoOfAffectedCust_Inci": 29,
@@ -3324,7 +3048,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 175,
+        "OBJECTID": 173,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 21,
@@ -3365,12 +3089,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.8373861803485,
-          34.032656640264435
+          -118.83735648204521,
+          34.032617787374015
         ]
       },
       "properties": {
-        "OBJECTID": 180,
+        "OBJECTID": 178,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 13,
@@ -3416,7 +3140,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 181,
+        "OBJECTID": 179,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN GABRIEL",
         "NoOfAffectedCust_Inci": 108,
@@ -3462,7 +3186,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 182,
+        "OBJECTID": 180,
         "CountyName": "LOS ANGELES",
         "CityName": "COVINA",
         "NoOfAffectedCust_Inci": 27,
@@ -3508,7 +3232,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 184,
+        "OBJECTID": 182,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 5,
@@ -3554,7 +3278,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 185,
+        "OBJECTID": 183,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 8,
@@ -3600,7 +3324,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 186,
+        "OBJECTID": 184,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 259,
@@ -3646,7 +3370,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 189,
+        "OBJECTID": 187,
         "CountyName": "VENTURA",
         "CityName": "SANTA PAULA",
         "NoOfAffectedCust_Inci": 160,
@@ -3692,7 +3416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 190,
+        "OBJECTID": 188,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -3738,7 +3462,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 192,
+        "OBJECTID": 190,
         "CountyName": "LOS ANGELES",
         "CityName": "HUNTINGTON PARK",
         "NoOfAffectedCust_Inci": 1063,
@@ -3784,7 +3508,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 193,
+        "OBJECTID": 191,
         "CountyName": "LOS ANGELES",
         "CityName": "BELLFLOWER",
         "NoOfAffectedCust_Inci": 186,
@@ -3830,7 +3554,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 194,
+        "OBJECTID": 192,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -3876,7 +3600,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 196,
+        "OBJECTID": 194,
         "CountyName": "VENTURA",
         "CityName": "CAMARILLO",
         "NoOfAffectedCust_Inci": 3,
@@ -3922,7 +3646,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 198,
+        "OBJECTID": 196,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 2,
@@ -3968,7 +3692,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 206,
+        "OBJECTID": 204,
         "CountyName": "LOS ANGELES",
         "CityName": "WHITTIER",
         "NoOfAffectedCust_Inci": 0,
@@ -4014,7 +3738,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 207,
+        "OBJECTID": 205,
         "CountyName": "LOS ANGELES",
         "CityName": "LANCASTER",
         "NoOfAffectedCust_Inci": 23,
@@ -4060,7 +3784,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 208,
+        "OBJECTID": 206,
         "CountyName": "LOS ANGELES",
         "CityName": "COVINA",
         "NoOfAffectedCust_Inci": 58,
@@ -4106,7 +3830,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 211,
+        "OBJECTID": 209,
         "CountyName": "LOS ANGELES",
         "CityName": "VALINDA",
         "NoOfAffectedCust_Inci": 239,
@@ -4152,7 +3876,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 212,
+        "OBJECTID": 210,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 33,
@@ -4198,7 +3922,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 213,
+        "OBJECTID": 211,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 99,
@@ -4244,7 +3968,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 217,
+        "OBJECTID": 214,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 1193,
@@ -4290,7 +4014,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 219,
+        "OBJECTID": 216,
         "CountyName": "LOS ANGELES",
         "CityName": "TORRANCE",
         "NoOfAffectedCust_Inci": 83,
@@ -4336,7 +4060,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 220,
+        "OBJECTID": 217,
         "CountyName": "LOS ANGELES",
         "CityName": "POMONA",
         "NoOfAffectedCust_Inci": 27,
@@ -4382,7 +4106,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 226,
+        "OBJECTID": 223,
         "CountyName": "LOS ANGELES",
         "CityName": "CERRITOS",
         "NoOfAffectedCust_Inci": 54,
@@ -4428,7 +4152,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 228,
+        "OBJECTID": 225,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 9,
@@ -4474,7 +4198,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 231,
+        "OBJECTID": 228,
         "CountyName": "VENTURA",
         "CityName": "OAK VIEW",
         "NoOfAffectedCust_Inci": 179,
@@ -4520,7 +4244,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 232,
+        "OBJECTID": 229,
         "CountyName": "LOS ANGELES",
         "CityName": "POMONA",
         "NoOfAffectedCust_Inci": 1,
@@ -4566,7 +4290,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 238,
+        "OBJECTID": 235,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 70,
@@ -4612,7 +4336,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 239,
+        "OBJECTID": 236,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 3,
@@ -4653,58 +4377,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.36066529866075,
-          33.777242338739107
-        ]
-      },
-      "properties": {
-        "OBJECTID": 241,
-        "CountyName": "LOS ANGELES",
-        "CityName": "Unincorporated Area",
-        "NoOfAffectedCust_Inci": 20,
-        "ZipcodeName": "90274",
-        "DistrictNo": "44",
-        "IncidentType": "PO",
-        "IncidentId": 136918212,
-        "SectorNo": "EL NIDO",
-        "JobStatus": "Z",
-        "OanNo": 800591789,
-        "OutageStartDateTime": 1795420800000,
-        "LastChngDateTime": "11/12/2026 05:16:26 PM",
-        "ERT": "11/23/2026 04:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "18",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.85373525082152,
           34.100884211383828
         ]
       },
       "properties": {
-        "OBJECTID": 242,
+        "OBJECTID": 238,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -4745,12 +4423,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.36066529866075,
+          33.777242338739107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 239,
+        "CountyName": "LOS ANGELES",
+        "CityName": "Unincorporated Area",
+        "NoOfAffectedCust_Inci": 20,
+        "ZipcodeName": "90274",
+        "DistrictNo": "44",
+        "IncidentType": "PO",
+        "IncidentId": 136918212,
+        "SectorNo": "EL NIDO",
+        "JobStatus": "Z",
+        "OanNo": 800591789,
+        "OutageStartDateTime": 1795420800000,
+        "LastChngDateTime": "11/12/2026 05:16:26 PM",
+        "ERT": "11/23/2026 04:00:00 PM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "18",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.3752890414429,
           34.062292040699255
         ]
       },
       "properties": {
-        "OBJECTID": 243,
+        "OBJECTID": 240,
         "CountyName": "LOS ANGELES",
         "CityName": "BEVERLY HILLS",
         "NoOfAffectedCust_Inci": 7,
@@ -4796,7 +4520,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 244,
+        "OBJECTID": 241,
         "CountyName": "LOS ANGELES",
         "CityName": "VIEW PARK-WINDSOR HILLS",
         "NoOfAffectedCust_Inci": 6,
@@ -4842,7 +4566,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 247,
+        "OBJECTID": 244,
         "CountyName": "LOS ANGELES",
         "CityName": "ALHAMBRA",
         "NoOfAffectedCust_Inci": 23,
@@ -4888,7 +4612,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 249,
+        "OBJECTID": 246,
         "CountyName": "LOS ANGELES",
         "CityName": "LA HABRA HEIGHTS",
         "NoOfAffectedCust_Inci": 7,
@@ -4934,7 +4658,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 251,
+        "OBJECTID": 248,
         "CountyName": "LOS ANGELES",
         "CityName": "ROLLING HILLS",
         "NoOfAffectedCust_Inci": 3,
@@ -4980,7 +4704,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 255,
+        "OBJECTID": 252,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 64,
@@ -5026,7 +4750,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 256,
+        "OBJECTID": 253,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA FE SPRINGS",
         "NoOfAffectedCust_Inci": 56,
@@ -5072,7 +4796,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 258,
+        "OBJECTID": 255,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 32,
@@ -5118,7 +4842,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 259,
+        "OBJECTID": 256,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 5,
@@ -5164,7 +4888,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 261,
+        "OBJECTID": 258,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 30,
@@ -5210,7 +4934,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 263,
+        "OBJECTID": 260,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 117,
@@ -5256,7 +4980,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 265,
+        "OBJECTID": 262,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 98,
@@ -5302,7 +5026,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 271,
+        "OBJECTID": 268,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 122,
@@ -5348,7 +5072,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 273,
+        "OBJECTID": 270,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 8,
@@ -5394,7 +5118,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 274,
+        "OBJECTID": 271,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN DIMAS",
         "NoOfAffectedCust_Inci": 12,
@@ -5435,12 +5159,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -119.12067318763962,
+          34.26402501297671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 272,
+        "CountyName": "VENTURA",
+        "CityName": "Unincorporated Area",
+        "NoOfAffectedCust_Inci": 1,
+        "ZipcodeName": "93066",
+        "DistrictNo": "39",
+        "IncidentType": "PO",
+        "IncidentId": 136970843,
+        "SectorNo": "SANTA CLARA",
+        "JobStatus": "Z",
+        "OanNo": 800593447,
+        "OutageStartDateTime": 1796241600000,
+        "LastChngDateTime": "11/18/2026 12:20:46 PM",
+        "ERT": "12/03/2026 05:00:00 AM",
+        "MemoCauseCd": 21,
+        "MemoCauseCdDesc": "Pole Upgrade",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "18",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.27043633221091,
           33.91351757007812
         ]
       },
       "properties": {
-        "OBJECTID": 276,
+        "OBJECTID": 274,
         "CountyName": "LOS ANGELES",
         "CityName": "WILLOWBROOK",
         "NoOfAffectedCust_Inci": 95,
@@ -5486,7 +5256,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 277,
+        "OBJECTID": 275,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -5532,7 +5302,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 278,
+        "OBJECTID": 276,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 10,
@@ -5578,7 +5348,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 279,
+        "OBJECTID": 277,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL GARDENS",
         "NoOfAffectedCust_Inci": 12,
@@ -5624,7 +5394,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 281,
+        "OBJECTID": 279,
         "CountyName": "VENTURA",
         "CityName": "CAMARILLO",
         "NoOfAffectedCust_Inci": 43,
@@ -5670,7 +5440,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 282,
+        "OBJECTID": 280,
         "CountyName": "VENTURA",
         "CityName": "SANTA PAULA",
         "NoOfAffectedCust_Inci": 33,
@@ -5716,7 +5486,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 283,
+        "OBJECTID": 281,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -5762,7 +5532,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 284,
+        "OBJECTID": 282,
         "CountyName": "LOS ANGELES",
         "CityName": "RANCHO PALOS VERDES",
         "NoOfAffectedCust_Inci": 58,
@@ -5808,7 +5578,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 286,
+        "OBJECTID": 284,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -5854,7 +5624,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 287,
+        "OBJECTID": 285,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 7,
@@ -5895,12 +5665,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -117.99113353107127,
+          34.136586600403412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 286,
+        "CountyName": "LOS ANGELES",
+        "CityName": "MONROVIA",
+        "NoOfAffectedCust_Inci": 22,
+        "ZipcodeName": "91016",
+        "DistrictNo": "27",
+        "IncidentType": "PO",
+        "IncidentId": 136779368,
+        "SectorNo": "MESA",
+        "JobStatus": "Z",
+        "OanNo": 800583791,
+        "OutageStartDateTime": 1796248800000,
+        "LastChngDateTime": "11/13/2026 03:16:00 PM",
+        "ERT": "12/03/2026 03:00:00 AM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "20",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.75128847426214,
           34.126572079682902
         ]
       },
       "properties": {
-        "OBJECTID": 288,
+        "OBJECTID": 287,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -5933,6 +5749,52 @@
         "Status": "ACTIVE",
         "OutageType": "S",
         "ProblemCode": "20",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7998255692623,
+          34.292734186253917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 293,
+        "CountyName": "VENTURA",
+        "CityName": "Unincorporated Area",
+        "NoOfAffectedCust_Inci": 5,
+        "ZipcodeName": "93065",
+        "DistrictNo": "35",
+        "IncidentType": "PO",
+        "IncidentId": 136969234,
+        "SectorNo": "MOORPARK",
+        "JobStatus": "Z",
+        "OanNo": 800593346,
+        "OutageStartDateTime": 1796248800000,
+        "LastChngDateTime": "11/18/2026 06:19:21 AM",
+        "ERT": "12/03/2026 06:30:00 AM",
+        "MemoCauseCd": 21,
+        "MemoCauseCdDesc": "Pole Upgrade",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "06",
         "feed": "scheduled"
       }
     },
@@ -7827,58 +7689,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.69928660505894,
-          34.039606321661047
-        ]
-      },
-      "properties": {
-        "OBJECTID": 392,
-        "CountyName": "LOS ANGELES",
-        "CityName": "MALIBU",
-        "NoOfAffectedCust_Inci": 4,
-        "ZipcodeName": "90265",
-        "DistrictNo": "35",
-        "IncidentType": "PO",
-        "IncidentId": 136901583,
-        "SectorNo": "MOORPARK",
-        "JobStatus": "Z",
-        "OanNo": 800590956,
-        "OutageStartDateTime": 1795050000000,
-        "LastChngDateTime": "11/10/2026 07:48:56 AM",
-        "ERT": "11/19/2026 05:00:00 AM",
-        "MemoCauseCd": 22,
-        "MemoCauseCdDesc": "Transformer Upgrade",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "06",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -119.17905967012965,
           34.464024036498436
         ]
       },
       "properties": {
-        "OBJECTID": 394,
+        "OBJECTID": 393,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -7924,7 +7740,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 396,
+        "OBJECTID": 395,
         "CountyName": "LOS ANGELES",
         "CityName": "MANHATTAN BEACH",
         "NoOfAffectedCust_Inci": 25,
@@ -7970,7 +7786,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 397,
+        "OBJECTID": 396,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 21,
@@ -8016,7 +7832,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 398,
+        "OBJECTID": 397,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CANADA FLINTRIDGE",
         "NoOfAffectedCust_Inci": 1,
@@ -8062,7 +7878,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 399,
+        "OBJECTID": 398,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COMPTON",
         "NoOfAffectedCust_Inci": 1,
@@ -8108,7 +7924,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 400,
+        "OBJECTID": 399,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CRESCENTA-MONTROSE",
         "NoOfAffectedCust_Inci": 0,
@@ -8154,7 +7970,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 402,
+        "OBJECTID": 401,
         "CountyName": "LOS ANGELES",
         "CityName": "LAKEWOOD",
         "NoOfAffectedCust_Inci": 34,
@@ -8200,7 +8016,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 403,
+        "OBJECTID": 402,
         "CountyName": "LOS ANGELES",
         "CityName": "ARCADIA",
         "NoOfAffectedCust_Inci": 22,
@@ -8246,7 +8062,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 404,
+        "OBJECTID": 403,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 2,
@@ -8292,7 +8108,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 405,
+        "OBJECTID": 404,
         "CountyName": "LOS ANGELES",
         "CityName": "LA HABRA HEIGHTS",
         "NoOfAffectedCust_Inci": 65,
@@ -8338,7 +8154,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 408,
+        "OBJECTID": 407,
         "CountyName": "LOS ANGELES",
         "CityName": "MAYFLOWER VILLAGE",
         "NoOfAffectedCust_Inci": 4,
@@ -8384,7 +8200,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 409,
+        "OBJECTID": 408,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 2,
@@ -8430,7 +8246,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 413,
+        "OBJECTID": 412,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 53,
@@ -8476,7 +8292,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 416,
+        "OBJECTID": 415,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -8522,7 +8338,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 423,
+        "OBJECTID": 422,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 2,
@@ -8568,7 +8384,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 427,
+        "OBJECTID": 426,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 58,
@@ -8614,7 +8430,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 429,
+        "OBJECTID": 428,
         "CountyName": "LOS ANGELES",
         "CityName": "TORRANCE",
         "NoOfAffectedCust_Inci": 152,
@@ -8660,7 +8476,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 430,
+        "OBJECTID": 429,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL GARDENS",
         "NoOfAffectedCust_Inci": 2,
@@ -8706,7 +8522,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 432,
+        "OBJECTID": 431,
         "CountyName": "LOS ANGELES",
         "CityName": "DOWNEY",
         "NoOfAffectedCust_Inci": 8,
@@ -8752,7 +8568,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 434,
+        "OBJECTID": 433,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH GATE",
         "NoOfAffectedCust_Inci": 25,
@@ -8798,7 +8614,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 436,
+        "OBJECTID": 435,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 10,
@@ -8844,7 +8660,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 437,
+        "OBJECTID": 436,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 5,
@@ -8890,7 +8706,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 438,
+        "OBJECTID": 437,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 49,
@@ -8936,7 +8752,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 439,
+        "OBJECTID": 438,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 9,
@@ -8982,7 +8798,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 444,
+        "OBJECTID": 443,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 145,
@@ -9028,7 +8844,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 447,
+        "OBJECTID": 446,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH EL MONTE",
         "NoOfAffectedCust_Inci": 15,
@@ -9074,7 +8890,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 450,
+        "OBJECTID": 449,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 16,
@@ -9120,7 +8936,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 451,
+        "OBJECTID": 450,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -9212,7 +9028,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 457,
+        "OBJECTID": 455,
         "CountyName": "VENTURA",
         "CityName": "OXNARD",
         "NoOfAffectedCust_Inci": 35,
@@ -9258,7 +9074,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 458,
+        "OBJECTID": 457,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH WHITTIER",
         "NoOfAffectedCust_Inci": 20,
@@ -9350,7 +9166,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 465,
+        "OBJECTID": 464,
         "CountyName": "VENTURA",
         "CityName": "OAK VIEW",
         "NoOfAffectedCust_Inci": 0,
@@ -9396,7 +9212,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 468,
+        "OBJECTID": 467,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 84,
@@ -9442,7 +9258,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 475,
+        "OBJECTID": 473,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST HOLLYWOOD",
         "NoOfAffectedCust_Inci": 20,
@@ -9488,7 +9304,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 478,
+        "OBJECTID": 476,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 16,
@@ -9534,7 +9350,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 479,
+        "OBJECTID": 477,
         "CountyName": "LOS ANGELES",
         "CityName": "DOWNEY",
         "NoOfAffectedCust_Inci": 15,
@@ -9580,7 +9396,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 481,
+        "OBJECTID": 479,
         "CountyName": "LOS ANGELES",
         "CityName": "ALHAMBRA",
         "NoOfAffectedCust_Inci": 158,
@@ -9626,7 +9442,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 483,
+        "OBJECTID": 481,
         "CountyName": "LOS ANGELES",
         "CityName": "INGLEWOOD",
         "NoOfAffectedCust_Inci": 87,
@@ -9672,7 +9488,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 484,
+        "OBJECTID": 482,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 8,
@@ -9718,7 +9534,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 485,
+        "OBJECTID": 483,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN DIMAS",
         "NoOfAffectedCust_Inci": 10,
@@ -9764,7 +9580,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 486,
+        "OBJECTID": 484,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 3,
@@ -9810,7 +9626,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 488,
+        "OBJECTID": 486,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 98,
@@ -9856,7 +9672,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 494,
+        "OBJECTID": 492,
         "CountyName": "LOS ANGELES",
         "CityName": "REDONDO BEACH",
         "NoOfAffectedCust_Inci": 125,
@@ -9902,7 +9718,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 496,
+        "OBJECTID": 494,
         "CountyName": "LOS ANGELES",
         "CityName": "VIEW PARK-WINDSOR HILLS",
         "NoOfAffectedCust_Inci": 282,
@@ -9948,7 +9764,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 497,
+        "OBJECTID": 495,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 69,
@@ -9994,7 +9810,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 501,
+        "OBJECTID": 498,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA FE SPRINGS",
         "NoOfAffectedCust_Inci": 1,
@@ -10040,7 +9856,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 502,
+        "OBJECTID": 499,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 125,
@@ -10086,7 +9902,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 505,
+        "OBJECTID": 502,
         "CountyName": "LOS ANGELES",
         "CityName": "DOWNEY",
         "NoOfAffectedCust_Inci": 872,
@@ -10132,7 +9948,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 509,
+        "OBJECTID": 506,
         "CountyName": "VENTURA",
         "CityName": "SANTA PAULA",
         "NoOfAffectedCust_Inci": 3,
@@ -10178,7 +9994,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 510,
+        "OBJECTID": 507,
         "CountyName": "LOS ANGELES",
         "CityName": "TEMPLE CITY",
         "NoOfAffectedCust_Inci": 698,
@@ -10224,7 +10040,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 512,
+        "OBJECTID": 509,
         "CountyName": "LOS ANGELES",
         "CityName": "WHITTIER",
         "NoOfAffectedCust_Inci": 13,
@@ -10265,58 +10081,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.18850829844962,
-          33.94046627984654
-        ]
-      },
-      "properties": {
-        "OBJECTID": 517,
-        "CountyName": "LOS ANGELES",
-        "CityName": "SOUTH GATE",
-        "NoOfAffectedCust_Inci": 41,
-        "ZipcodeName": "90280",
-        "DistrictNo": "32",
-        "IncidentType": "PO",
-        "IncidentId": 136931913,
-        "SectorNo": "LIGHTHIPE",
-        "JobStatus": "Z",
-        "OanNo": 800592344,
-        "OutageStartDateTime": 1796029200000,
-        "LastChngDateTime": "11/14/2026 08:19:45 AM",
-        "ERT": "11/30/2026 04:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "06",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.08425304793333,
           34.039840003876556
         ]
       },
       "properties": {
-        "OBJECTID": 518,
+        "OBJECTID": 513,
         "CountyName": "LOS ANGELES",
         "CityName": "ROSEMEAD",
         "NoOfAffectedCust_Inci": 105,
@@ -10357,12 +10127,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.18850829844962,
+          33.94046627984654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 515,
+        "CountyName": "LOS ANGELES",
+        "CityName": "SOUTH GATE",
+        "NoOfAffectedCust_Inci": 41,
+        "ZipcodeName": "90280",
+        "DistrictNo": "32",
+        "IncidentType": "PO",
+        "IncidentId": 136931913,
+        "SectorNo": "LIGHTHIPE",
+        "JobStatus": "Z",
+        "OanNo": 800592344,
+        "OutageStartDateTime": 1796029200000,
+        "LastChngDateTime": "11/14/2026 08:19:45 AM",
+        "ERT": "11/30/2026 04:00:00 PM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "06",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.314580306206,
           34.284713805582882
         ]
       },
       "properties": {
-        "OBJECTID": 520,
+        "OBJECTID": 517,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -10408,7 +10224,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 524,
+        "OBJECTID": 521,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 31,
@@ -10454,7 +10270,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 525,
+        "OBJECTID": 522,
         "CountyName": "LOS ANGELES",
         "CityName": "PASADENA",
         "NoOfAffectedCust_Inci": 0,
@@ -10500,7 +10316,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 526,
+        "OBJECTID": 523,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN DIMAS",
         "NoOfAffectedCust_Inci": 71,
@@ -10546,7 +10362,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 528,
+        "OBJECTID": 525,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA MONICA",
         "NoOfAffectedCust_Inci": 18,
@@ -10592,7 +10408,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 535,
+        "OBJECTID": 532,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 7,
@@ -10638,7 +10454,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 539,
+        "OBJECTID": 536,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL GARDENS",
         "NoOfAffectedCust_Inci": 20,
@@ -10684,7 +10500,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 543,
+        "OBJECTID": 540,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 4,
@@ -10730,7 +10546,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 547,
+        "OBJECTID": 545,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 57,
@@ -10776,7 +10592,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 549,
+        "OBJECTID": 547,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 1,
@@ -10822,7 +10638,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 550,
+        "OBJECTID": 548,
         "CountyName": "LOS ANGELES",
         "CityName": "WILLOWBROOK",
         "NoOfAffectedCust_Inci": 11,
@@ -10868,7 +10684,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 553,
+        "OBJECTID": 551,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA MONICA",
         "NoOfAffectedCust_Inci": 41,
@@ -10914,7 +10730,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 555,
+        "OBJECTID": 552,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 5,
@@ -10960,7 +10776,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 561,
+        "OBJECTID": 558,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -11006,7 +10822,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 565,
+        "OBJECTID": 562,
         "CountyName": "LOS ANGELES",
         "CityName": "MONTEREY PARK",
         "NoOfAffectedCust_Inci": 37,
@@ -11052,7 +10868,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 568,
+        "OBJECTID": 565,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 87,
@@ -11098,7 +10914,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 569,
+        "OBJECTID": 566,
         "CountyName": "LOS ANGELES",
         "CityName": "CARSON",
         "NoOfAffectedCust_Inci": 7,
@@ -11144,7 +10960,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 571,
+        "OBJECTID": 568,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 14,
@@ -11190,7 +11006,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 572,
+        "OBJECTID": 569,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 110,
@@ -11236,7 +11052,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 574,
+        "OBJECTID": 571,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -11282,7 +11098,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 579,
+        "OBJECTID": 577,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 9,
@@ -11323,12 +11139,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.29405917203222,
+          33.876774900831705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 578,
+        "CountyName": "LOS ANGELES",
+        "CityName": "GARDENA",
+        "NoOfAffectedCust_Inci": 3,
+        "ZipcodeName": "90247",
+        "DistrictNo": "44",
+        "IncidentType": "PO",
+        "IncidentId": 136972331,
+        "SectorNo": "EL NIDO",
+        "JobStatus": "Z",
+        "OanNo": 800593453,
+        "OutageStartDateTime": 1796133600000,
+        "LastChngDateTime": "11/18/2026 05:06:45 PM",
+        "ERT": "12/01/2026 07:00:00 PM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "06",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.97173770483622,
           34.52533002696147
         ]
       },
       "properties": {
-        "OBJECTID": 581,
+        "OBJECTID": 579,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 28,
@@ -11374,7 +11236,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 582,
+        "OBJECTID": 580,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 5,
@@ -11415,58 +11277,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.29405917203222,
-          33.876774900831705
-        ]
-      },
-      "properties": {
-        "OBJECTID": 583,
-        "CountyName": "LOS ANGELES",
-        "CityName": "GARDENA",
-        "NoOfAffectedCust_Inci": 3,
-        "ZipcodeName": "90247",
-        "DistrictNo": "44",
-        "IncidentType": "PO",
-        "IncidentId": 136972331,
-        "SectorNo": "EL NIDO",
-        "JobStatus": "Z",
-        "OanNo": 800593453,
-        "OutageStartDateTime": 1796133600000,
-        "LastChngDateTime": "11/18/2026 05:06:45 PM",
-        "ERT": "12/01/2026 07:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "06",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -119.31280080920519,
           34.37874933766885
         ]
       },
       "properties": {
-        "OBJECTID": 589,
+        "OBJECTID": 585,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -11512,7 +11328,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 593,
+        "OBJECTID": 589,
         "CountyName": "LOS ANGELES",
         "CityName": "CULVER CITY",
         "NoOfAffectedCust_Inci": 31,
@@ -11558,7 +11374,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 594,
+        "OBJECTID": 590,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 3,
@@ -11604,7 +11420,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 596,
+        "OBJECTID": 591,
         "CountyName": "LOS ANGELES",
         "CityName": "HAWTHORNE",
         "NoOfAffectedCust_Inci": 40,
@@ -11650,7 +11466,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 597,
+        "OBJECTID": 593,
         "CountyName": "LOS ANGELES",
         "CityName": "HUNTINGTON PARK",
         "NoOfAffectedCust_Inci": 874,
@@ -11696,7 +11512,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 598,
+        "OBJECTID": 594,
         "CountyName": "LOS ANGELES",
         "CityName": "HACIENDA HEIGHTS",
         "NoOfAffectedCust_Inci": 73,
@@ -11737,58 +11553,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.13117601320003,
-          33.843870816643864
-        ]
-      },
-      "properties": {
-        "OBJECTID": 599,
-        "CountyName": "LOS ANGELES",
-        "CityName": "LONG BEACH",
-        "NoOfAffectedCust_Inci": 18,
-        "ZipcodeName": "90808",
-        "DistrictNo": "46",
-        "IncidentType": "PO",
-        "IncidentId": 136966956,
-        "SectorNo": "LIGHTHIPE",
-        "JobStatus": "Z",
-        "OanNo": 800593165,
-        "OutageStartDateTime": 1796115600000,
-        "LastChngDateTime": "11/17/2026 12:37:21 PM",
-        "ERT": "12/01/2026 04:00:00 PM",
-        "MemoCauseCd": 21,
-        "MemoCauseCdDesc": "Pole Upgrade",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "06",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.23969861704875,
           33.911475080788676
         ]
       },
       "properties": {
-        "OBJECTID": 600,
+        "OBJECTID": 595,
         "CountyName": "LOS ANGELES",
         "CityName": "COMPTON",
         "NoOfAffectedCust_Inci": 3,
@@ -11829,12 +11599,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.13117601320003,
+          33.843870816643864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 596,
+        "CountyName": "LOS ANGELES",
+        "CityName": "LONG BEACH",
+        "NoOfAffectedCust_Inci": 18,
+        "ZipcodeName": "90808",
+        "DistrictNo": "46",
+        "IncidentType": "PO",
+        "IncidentId": 136966956,
+        "SectorNo": "LIGHTHIPE",
+        "JobStatus": "Z",
+        "OanNo": 800593165,
+        "OutageStartDateTime": 1796115600000,
+        "LastChngDateTime": "11/17/2026 12:37:21 PM",
+        "ERT": "12/01/2026 04:00:00 PM",
+        "MemoCauseCd": 21,
+        "MemoCauseCdDesc": "Pole Upgrade",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "06",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.79932857183977,
           34.73516595752799
         ]
       },
       "properties": {
-        "OBJECTID": 602,
+        "OBJECTID": 599,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 62,
@@ -11880,7 +11696,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 604,
+        "OBJECTID": 600,
         "CountyName": "VENTURA",
         "CityName": "OAK VIEW",
         "NoOfAffectedCust_Inci": 23,
@@ -11926,7 +11742,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 607,
+        "OBJECTID": 603,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 4,
@@ -11972,7 +11788,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 608,
+        "OBJECTID": 604,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -12018,7 +11834,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 609,
+        "OBJECTID": 605,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -12064,7 +11880,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 610,
+        "OBJECTID": 606,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 22,
@@ -12110,7 +11926,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 617,
+        "OBJECTID": 613,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 32,
@@ -12156,7 +11972,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 620,
+        "OBJECTID": 616,
         "CountyName": "LOS ANGELES",
         "CityName": "GLENDORA",
         "NoOfAffectedCust_Inci": 63,
@@ -12202,7 +12018,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 625,
+        "OBJECTID": 621,
         "CountyName": "LOS ANGELES",
         "CityName": "GARDENA",
         "NoOfAffectedCust_Inci": 12,
@@ -12248,7 +12064,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 630,
+        "OBJECTID": 626,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN GABRIEL",
         "NoOfAffectedCust_Inci": 414,
@@ -12294,7 +12110,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 632,
+        "OBJECTID": 628,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 0,
@@ -12340,7 +12156,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 633,
+        "OBJECTID": 629,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 28,
@@ -12386,7 +12202,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 634,
+        "OBJECTID": 630,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 13,
@@ -12432,7 +12248,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 638,
+        "OBJECTID": 634,
         "CountyName": "LOS ANGELES",
         "CityName": "TORRANCE",
         "NoOfAffectedCust_Inci": 1,
@@ -12478,7 +12294,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 640,
+        "OBJECTID": 636,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTMONT",
         "NoOfAffectedCust_Inci": 38,
@@ -12524,7 +12340,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 643,
+        "OBJECTID": 639,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 6,
@@ -12570,7 +12386,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 652,
+        "OBJECTID": 648,
         "CountyName": "VENTURA",
         "CityName": "SANTA PAULA",
         "NoOfAffectedCust_Inci": 6,
@@ -12616,7 +12432,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 657,
+        "OBJECTID": 653,
         "CountyName": "LOS ANGELES",
         "CityName": "CARSON",
         "NoOfAffectedCust_Inci": 2,
@@ -12662,7 +12478,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 660,
+        "OBJECTID": 656,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 1,
@@ -12708,7 +12524,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 662,
+        "OBJECTID": 658,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 75,
@@ -12754,7 +12570,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 663,
+        "OBJECTID": 659,
         "CountyName": "LOS ANGELES",
         "CityName": "WILLOWBROOK",
         "NoOfAffectedCust_Inci": 37,
@@ -12800,7 +12616,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 667,
+        "OBJECTID": 663,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 36,
@@ -12846,7 +12662,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 668,
+        "OBJECTID": 664,
         "CountyName": "LOS ANGELES",
         "CityName": "RANCHO PALOS VERDES",
         "NoOfAffectedCust_Inci": 7,
@@ -12892,7 +12708,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 670,
+        "OBJECTID": 666,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 2,
@@ -12938,7 +12754,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 672,
+        "OBJECTID": 668,
         "CountyName": "LOS ANGELES",
         "CityName": "MONTEREY PARK",
         "NoOfAffectedCust_Inci": 25,
@@ -12984,7 +12800,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 675,
+        "OBJECTID": 671,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -13030,7 +12846,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 676,
+        "OBJECTID": 673,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 6,
@@ -13076,7 +12892,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 677,
+        "OBJECTID": 674,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -13122,7 +12938,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 678,
+        "OBJECTID": 675,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -13168,7 +12984,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 683,
+        "OBJECTID": 679,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 11,
@@ -13214,7 +13030,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 684,
+        "OBJECTID": 680,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL GARDENS",
         "NoOfAffectedCust_Inci": 8,
@@ -13260,7 +13076,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 685,
+        "OBJECTID": 681,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 0,
@@ -13306,7 +13122,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 686,
+        "OBJECTID": 682,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -13352,7 +13168,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 688,
+        "OBJECTID": 683,
         "CountyName": "LOS ANGELES",
         "CityName": "FLORENCE-GRAHAM",
         "NoOfAffectedCust_Inci": 32,
@@ -13398,7 +13214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 689,
+        "OBJECTID": 684,
         "CountyName": "LOS ANGELES",
         "CityName": "ROWLAND HEIGHTS",
         "NoOfAffectedCust_Inci": 43,
@@ -13444,7 +13260,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 690,
+        "OBJECTID": 685,
         "CountyName": "LOS ANGELES",
         "CityName": "ARCADIA",
         "NoOfAffectedCust_Inci": 5,
@@ -13490,7 +13306,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 697,
+        "OBJECTID": 692,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 98,
@@ -13536,7 +13352,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 698,
+        "OBJECTID": 693,
         "CountyName": "LOS ANGELES",
         "CityName": "BEVERLY HILLS",
         "NoOfAffectedCust_Inci": 1,
@@ -13582,7 +13398,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 705,
+        "OBJECTID": 700,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 374,
@@ -13628,7 +13444,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 706,
+        "OBJECTID": 701,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 74,
@@ -13674,7 +13490,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 711,
+        "OBJECTID": 706,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 4,
@@ -13720,7 +13536,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 722,
+        "OBJECTID": 717,
         "CountyName": "LOS ANGELES",
         "CityName": "MAYWOOD",
         "NoOfAffectedCust_Inci": 77,
@@ -13766,7 +13582,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 733,
+        "OBJECTID": 728,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -13812,7 +13628,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 735,
+        "OBJECTID": 729,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -13858,7 +13674,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 737,
+        "OBJECTID": 731,
         "CountyName": "LOS ANGELES",
         "CityName": "QUARTZ HILL",
         "NoOfAffectedCust_Inci": 67,
@@ -13904,7 +13720,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 741,
+        "OBJECTID": 735,
         "CountyName": "LOS ANGELES",
         "CityName": "POMONA",
         "NoOfAffectedCust_Inci": 32,
@@ -13950,7 +13766,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 746,
+        "OBJECTID": 740,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -13996,7 +13812,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 748,
+        "OBJECTID": 742,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 17,
@@ -14042,7 +13858,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 749,
+        "OBJECTID": 743,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -14088,7 +13904,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 751,
+        "OBJECTID": 745,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 68,
@@ -14134,7 +13950,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 752,
+        "OBJECTID": 746,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN GABRIEL",
         "NoOfAffectedCust_Inci": 15,
@@ -14180,7 +13996,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 754,
+        "OBJECTID": 748,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -14226,7 +14042,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 757,
+        "OBJECTID": 751,
         "CountyName": "LOS ANGELES",
         "CityName": "HIDDEN HILLS",
         "NoOfAffectedCust_Inci": 2,
@@ -14272,7 +14088,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 758,
+        "OBJECTID": 752,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 17,
@@ -14318,7 +14134,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 759,
+        "OBJECTID": 753,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 7,
@@ -14364,7 +14180,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 761,
+        "OBJECTID": 755,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 64,
@@ -14410,7 +14226,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 764,
+        "OBJECTID": 758,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH PASADENA",
         "NoOfAffectedCust_Inci": 106,
@@ -14456,7 +14272,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 765,
+        "OBJECTID": 759,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 5,
@@ -14502,7 +14318,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 767,
+        "OBJECTID": 761,
         "CountyName": "LOS ANGELES",
         "CityName": "WILLOWBROOK",
         "NoOfAffectedCust_Inci": 1,
@@ -14548,7 +14364,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 769,
+        "OBJECTID": 763,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 11,
@@ -14594,7 +14410,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 770,
+        "OBJECTID": 764,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 98,
@@ -14640,7 +14456,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 773,
+        "OBJECTID": 767,
         "CountyName": "LOS ANGELES",
         "CityName": "DIAMOND BAR",
         "NoOfAffectedCust_Inci": 14,
@@ -14686,7 +14502,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 774,
+        "OBJECTID": 768,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -14732,7 +14548,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 776,
+        "OBJECTID": 770,
         "CountyName": "LOS ANGELES",
         "CityName": "MONROVIA",
         "NoOfAffectedCust_Inci": 10,
