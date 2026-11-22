@@ -1,145 +1,7 @@
 {
   "type": "FeatureCollection",
-  "scraped_at": "2026-11-21T23:01:24Z",
+  "scraped_at": "2026-11-22T02:57:24Z",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.3974438723932,
-          34.659314073432654
-        ]
-      },
-      "properties": {
-        "OBJECTID": 1,
-        "CountyName": "LOS ANGELES",
-        "CityName": "Unincorporated Area",
-        "NoOfAffectedCust_Inci": 45,
-        "ZipcodeName": "93532",
-        "DistrictNo": "36",
-        "IncidentType": "PO",
-        "IncidentId": 136904667,
-        "SectorNo": "VINCENT",
-        "JobStatus": "W",
-        "OanNo": 800591230,
-        "OutageStartDateTime": 1795249801000,
-        "LastChngDateTime": "11/21/2026 12:19:53 PM",
-        "ERT": "11/21/2026 04:30:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "18",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.2652686487336,
-          34.438316267557873
-        ]
-      },
-      "properties": {
-        "OBJECTID": 6,
-        "CountyName": "VENTURA",
-        "CityName": "OJAI",
-        "NoOfAffectedCust_Inci": 149,
-        "ZipcodeName": "93023",
-        "DistrictNo": "39",
-        "IncidentType": "QI",
-        "IncidentId": 136987196,
-        "SectorNo": "SANTA CLARA",
-        "JobStatus": "D",
-        "OanNo": 800594454,
-        "OutageStartDateTime": 1795250898000,
-        "LastChngDateTime": "11/21/2026 09:48:40 AM",
-        "ERT": "11/21/2026 06:00:00 PM",
-        "MemoCauseCd": 16,
-        "MemoCauseCdDesc": "Equipment Problems",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 0,
-        "ResultCdDesc": "Not Available",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "07",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.38405352188606,
-          34.351856158095984
-        ]
-      },
-      "properties": {
-        "OBJECTID": 10,
-        "CountyName": "LOS ANGELES",
-        "CityName": "Unincorporated Area",
-        "NoOfAffectedCust_Inci": 2,
-        "ZipcodeName": "91321",
-        "DistrictNo": "59",
-        "IncidentType": "PO",
-        "IncidentId": 136886759,
-        "SectorNo": "SAUGUS",
-        "JobStatus": "W",
-        "OanNo": 800590365,
-        "OutageStartDateTime": 1795248050000,
-        "LastChngDateTime": "11/21/2026 12:19:33 PM",
-        "ERT": "11/21/2026 04:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "18",
-        "feed": "active"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -150,7 +12,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 18,
+        "OBJECTID": 6,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH GATE",
         "NoOfAffectedCust_Inci": 3,
@@ -159,23 +21,23 @@
         "IncidentType": "QI",
         "IncidentId": 136986307,
         "SectorNo": "LIGHTHIPE",
-        "JobStatus": "D",
+        "JobStatus": "A",
         "OanNo": 800594401,
         "OutageStartDateTime": 1795223297000,
-        "LastChngDateTime": "11/21/2026 11:50:51 AM",
-        "ERT": "Most up by 11/21/2026 02:00:00 PM",
+        "LastChngDateTime": "11/21/2026 03:26:49 PM",
+        "ERT": "11/22/2026 01:00:00 AM",
         "MemoCauseCd": 15,
         "MemoCauseCdDesc": "Analyzing Problem",
-        "CrewStatusCd": 3,
-        "CrewStatusCdDesc": "Our crews are on the way. ",
+        "CrewStatusCd": 11,
+        "CrewStatusCdDesc": "We have identified the problem and are working to restore your service.",
         "ResultCd": 0,
         "ResultCdDesc": "Not Available",
-        "ERTCd": 5,
+        "ERTCd": 7,
         "created_user": null,
         "created_date": null,
         "last_edited_user": null,
         "last_edited_date": null,
-        "ERT_LOC": "Most up by 11/21/2026 02:00:00 PM",
+        "ERT_LOC": "Most up by ",
         "RO_Group_Numbers": null,
         "Future_RO_Groups": null,
         "Flag": 1,
@@ -183,98 +45,6 @@
         "Status": "ACTIVE",
         "OutageType": null,
         "ProblemCode": "01",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.80206871456861,
-          34.109376842619383
-        ]
-      },
-      "properties": {
-        "OBJECTID": 20,
-        "CountyName": "LOS ANGELES",
-        "CityName": "SAN DIMAS",
-        "NoOfAffectedCust_Inci": 10,
-        "ZipcodeName": "91773",
-        "DistrictNo": "26",
-        "IncidentType": "PO",
-        "IncidentId": 136918028,
-        "SectorNo": "MIRA LOMA",
-        "JobStatus": "W",
-        "OanNo": 800591730,
-        "OutageStartDateTime": 1795248020000,
-        "LastChngDateTime": "11/21/2026 02:28:45 PM",
-        "ERT": "11/21/2026 04:00:00 PM",
-        "MemoCauseCd": 21,
-        "MemoCauseCdDesc": "Pole Upgrade",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "06",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.10734179260585,
-          34.57805363813992
-        ]
-      },
-      "properties": {
-        "OBJECTID": 21,
-        "CountyName": "LOS ANGELES",
-        "CityName": "PALMDALE",
-        "NoOfAffectedCust_Inci": 4,
-        "ZipcodeName": "93550",
-        "DistrictNo": "36",
-        "IncidentType": "Not Available",
-        "IncidentId": 136987227,
-        "SectorNo": "VINCENT",
-        "JobStatus": "W",
-        "OanNo": 800594495,
-        "OutageStartDateTime": 1795251180000,
-        "LastChngDateTime": "11/21/2026 01:06:37 PM",
-        "ERT": "11/21/2026 04:30:00 PM",
-        "MemoCauseCd": 15,
-        "MemoCauseCdDesc": "Analyzing Problem",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 0,
-        "ResultCdDesc": "Not Available",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "05",
         "feed": "active"
       }
     },
@@ -288,7 +58,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 26,
+        "OBJECTID": 10,
         "CountyName": "LOS ANGELES",
         "CityName": "LOMITA",
         "NoOfAffectedCust_Inci": 15,
@@ -300,8 +70,8 @@
         "JobStatus": "D",
         "OanNo": 800594514,
         "OutageStartDateTime": 1795183860000,
-        "LastChngDateTime": "11/21/2026 09:55:47 AM",
-        "ERT": "Most up by 11/21/2026 03:00:00 PM",
+        "LastChngDateTime": "11/21/2026 06:36:30 PM",
+        "ERT": "Most up by 11/21/2026 08:00:00 PM",
         "MemoCauseCd": 15,
         "MemoCauseCdDesc": "Analyzing Problem",
         "CrewStatusCd": 1,
@@ -313,7 +83,7 @@
         "created_date": null,
         "last_edited_user": null,
         "last_edited_date": null,
-        "ERT_LOC": "Most up by 11/21/2026 03:00:00 PM",
+        "ERT_LOC": "Most up by 11/21/2026 08:00:00 PM",
         "RO_Group_Numbers": null,
         "Future_RO_Groups": null,
         "Flag": 1,
@@ -329,44 +99,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.16472433590064,
-          34.043777837772303
+          -118.32780020671747,
+          33.736444618284892
         ]
       },
       "properties": {
-        "OBJECTID": 29,
+        "OBJECTID": 11,
         "CountyName": "LOS ANGELES",
-        "CityName": "EAST LOS ANGELES",
-        "NoOfAffectedCust_Inci": 98,
-        "ZipcodeName": "90022",
-        "DistrictNo": "22",
-        "IncidentType": "PO",
-        "IncidentId": 136917481,
-        "SectorNo": "MESA",
-        "JobStatus": "W",
-        "OanNo": 800591725,
-        "OutageStartDateTime": 1795249895000,
-        "LastChngDateTime": "11/21/2026 10:22:08 AM",
-        "ERT": "11/21/2026 06:30:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
+        "CityName": "RANCHO PALOS VERDES",
+        "NoOfAffectedCust_Inci": 12,
+        "ZipcodeName": "90275",
+        "DistrictNo": "44",
+        "IncidentType": "Not Available",
+        "IncidentId": 136988283,
+        "SectorNo": "EL NIDO",
+        "JobStatus": "D",
+        "OanNo": 800594607,
+        "OutageStartDateTime": 1795269540000,
+        "LastChngDateTime": "11/21/2026 06:11:03 PM",
+        "ERT": "Most up by 11/21/2026 11:00:00 PM",
+        "MemoCauseCd": 15,
+        "MemoCauseCdDesc": "Analyzing Problem",
+        "CrewStatusCd": 2,
+        "CrewStatusCdDesc": "We have notified our repair crews. ",
+        "ResultCd": 0,
+        "ResultCdDesc": "Not Available",
+        "ERTCd": 5,
         "created_user": null,
         "created_date": null,
         "last_edited_user": null,
         "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
+        "ERT_LOC": "Most up by 11/21/2026 11:00:00 PM",
         "RO_Group_Numbers": null,
         "Future_RO_Groups": null,
         "Flag": 1,
         "Circuit_Number": null,
         "Status": "ACTIVE",
         "OutageType": null,
-        "ProblemCode": "06",
+        "ProblemCode": "01",
         "feed": "active"
       }
     },
@@ -380,7 +150,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 31,
+        "OBJECTID": 12,
         "CountyName": "LOS ANGELES",
         "CityName": "INGLEWOOD",
         "NoOfAffectedCust_Inci": 22,
@@ -392,8 +162,8 @@
         "JobStatus": "D",
         "OanNo": 800594399,
         "OutageStartDateTime": 1795112520000,
-        "LastChngDateTime": "11/21/2026 09:59:34 AM",
-        "ERT": "Most up by 11/21/2026 03:00:00 PM",
+        "LastChngDateTime": "11/21/2026 03:24:00 PM",
+        "ERT": "Most up by 11/21/2026 08:00:00 PM",
         "MemoCauseCd": 15,
         "MemoCauseCdDesc": "Analyzing Problem",
         "CrewStatusCd": 1,
@@ -405,7 +175,7 @@
         "created_date": null,
         "last_edited_user": null,
         "last_edited_date": null,
-        "ERT_LOC": "Most up by 11/21/2026 03:00:00 PM",
+        "ERT_LOC": "Most up by 11/21/2026 08:00:00 PM",
         "RO_Group_Numbers": null,
         "Future_RO_Groups": null,
         "Flag": 1,
@@ -413,52 +183,6 @@
         "Status": "ACTIVE",
         "OutageType": null,
         "ProblemCode": "02",
-        "feed": "active"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.18537908542936,
-          33.992299610336957
-        ]
-      },
-      "properties": {
-        "OBJECTID": 32,
-        "CountyName": "LOS ANGELES",
-        "CityName": "MAYWOOD",
-        "NoOfAffectedCust_Inci": 77,
-        "ZipcodeName": "90270",
-        "DistrictNo": "32",
-        "IncidentType": "PO",
-        "IncidentId": 136897063,
-        "SectorNo": "LIGHTHIPE",
-        "JobStatus": "W",
-        "OanNo": 800590812,
-        "OutageStartDateTime": 1795241100000,
-        "LastChngDateTime": "11/21/2026 01:27:48 PM",
-        "ERT": "11/21/2026 06:00:00 PM",
-        "MemoCauseCd": 21,
-        "MemoCauseCdDesc": "Pole Upgrade",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "18",
         "feed": "active"
       }
     },
@@ -1530,7 +1254,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 62,
+        "OBJECTID": 63,
         "CountyName": "LOS ANGELES",
         "CityName": "ARCADIA",
         "NoOfAffectedCust_Inci": 12,
@@ -1576,7 +1300,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 64,
+        "OBJECTID": 65,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 149,
@@ -1622,7 +1346,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 65,
+        "OBJECTID": 66,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COVINA",
         "NoOfAffectedCust_Inci": 315,
@@ -1668,7 +1392,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 67,
+        "OBJECTID": 68,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 101,
@@ -1714,7 +1438,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 68,
+        "OBJECTID": 69,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COVINA",
         "NoOfAffectedCust_Inci": 14,
@@ -1760,7 +1484,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 73,
+        "OBJECTID": 74,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 25,
@@ -7418,7 +7142,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 379,
+        "OBJECTID": 378,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 22,
@@ -7464,7 +7188,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 380,
+        "OBJECTID": 381,
         "CountyName": "LOS ANGELES",
         "CityName": "PARAMOUNT",
         "NoOfAffectedCust_Inci": 25,
@@ -10822,7 +10546,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 549,
+        "OBJECTID": 548,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 3,
@@ -15141,58 +14865,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.30193324146744,
-          33.883670706148422
-        ]
-      },
-      "properties": {
-        "OBJECTID": 779,
-        "CountyName": "LOS ANGELES",
-        "CityName": "GARDENA",
-        "NoOfAffectedCust_Inci": 42,
-        "ZipcodeName": "90247",
-        "DistrictNo": "44",
-        "IncidentType": "PO",
-        "IncidentId": 136984896,
-        "SectorNo": "EL NIDO",
-        "JobStatus": "Z",
-        "OanNo": 800594246,
-        "OutageStartDateTime": 1796115600000,
-        "LastChngDateTime": "11/20/2026 03:17:16 PM",
-        "ERT": "12/01/2026 03:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "18",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.17894321517073,
           34.044658094002735
         ]
       },
       "properties": {
-        "OBJECTID": 780,
+        "OBJECTID": 779,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 136,
@@ -15238,7 +14916,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 781,
+        "OBJECTID": 780,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 116,
@@ -15271,6 +14949,52 @@
         "Status": "ACTIVE",
         "OutageType": "S",
         "ProblemCode": "06",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30193324146744,
+          33.883670706148422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 782,
+        "CountyName": "LOS ANGELES",
+        "CityName": "GARDENA",
+        "NoOfAffectedCust_Inci": 42,
+        "ZipcodeName": "90247",
+        "DistrictNo": "44",
+        "IncidentType": "PO",
+        "IncidentId": 136984896,
+        "SectorNo": "EL NIDO",
+        "JobStatus": "Z",
+        "OanNo": 800594246,
+        "OutageStartDateTime": 1796115600000,
+        "LastChngDateTime": "11/20/2026 03:17:16 PM",
+        "ERT": "12/01/2026 03:00:00 PM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "18",
         "feed": "scheduled"
       }
     },
