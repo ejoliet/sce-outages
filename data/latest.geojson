@@ -1,53 +1,7 @@
 {
   "type": "FeatureCollection",
-  "scraped_at": "2026-11-26T04:53:34Z",
+  "scraped_at": "2026-11-26T14:57:13Z",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.90336928753783,
-          33.985131612914117
-        ]
-      },
-      "properties": {
-        "OBJECTID": 3,
-        "CountyName": "LOS ANGELES",
-        "CityName": "ROWLAND HEIGHTS",
-        "NoOfAffectedCust_Inci": 21,
-        "ZipcodeName": "91748",
-        "DistrictNo": "26",
-        "IncidentType": "Not Available",
-        "IncidentId": 137003751,
-        "SectorNo": "MIRA LOMA",
-        "JobStatus": "F",
-        "OanNo": 800595740,
-        "OutageStartDateTime": 1795620344000,
-        "LastChngDateTime": "11/25/2026 08:33:37 PM",
-        "ERT": "Most up by 11/25/2026 11:00:00 PM",
-        "MemoCauseCd": 16,
-        "MemoCauseCdDesc": "Equipment Problems",
-        "CrewStatusCd": 3,
-        "CrewStatusCdDesc": "Our crews are on the way. ",
-        "ResultCd": 0,
-        "ResultCdDesc": "Not Available",
-        "ERTCd": 5,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by 11/25/2026 11:00:00 PM",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": null,
-        "ProblemCode": "01",
-        "feed": "active"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -798,7 +752,7 @@
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 13,
-        "ZipcodeName": "93066",
+        "ZipcodeName": "93021",
         "DistrictNo": "39",
         "IncidentType": "PO",
         "IncidentId": 137003724,
@@ -3140,7 +3094,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 184,
+        "OBJECTID": 185,
         "CountyName": "LOS ANGELES",
         "CityName": "WALNUT",
         "NoOfAffectedCust_Inci": 71,
@@ -3186,7 +3140,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 185,
+        "OBJECTID": 186,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -3232,7 +3186,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 187,
+        "OBJECTID": 188,
         "CountyName": "VENTURA",
         "CityName": "SANTA PAULA",
         "NoOfAffectedCust_Inci": 29,
@@ -3278,7 +3232,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 188,
+        "OBJECTID": 189,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 24,
@@ -3324,7 +3278,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 189,
+        "OBJECTID": 190,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 7,
@@ -3370,7 +3324,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 190,
+        "OBJECTID": 191,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 21,
@@ -3416,7 +3370,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 191,
+        "OBJECTID": 192,
         "CountyName": "LOS ANGELES",
         "CityName": "LYNWOOD",
         "NoOfAffectedCust_Inci": 36,
@@ -3462,7 +3416,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 193,
+        "OBJECTID": 194,
         "CountyName": "LOS ANGELES",
         "CityName": "WALNUT",
         "NoOfAffectedCust_Inci": 17,
@@ -3508,7 +3462,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 197,
+        "OBJECTID": 198,
         "CountyName": "LOS ANGELES",
         "CityName": "LA HABRA HEIGHTS",
         "NoOfAffectedCust_Inci": 36,
@@ -3554,7 +3508,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 198,
+        "OBJECTID": 199,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 11,
@@ -3600,7 +3554,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 200,
+        "OBJECTID": 201,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 13,
@@ -3646,7 +3600,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 201,
+        "OBJECTID": 202,
         "CountyName": "VENTURA",
         "CityName": "MOORPARK",
         "NoOfAffectedCust_Inci": 31,
@@ -3692,7 +3646,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 204,
+        "OBJECTID": 205,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 19,
@@ -3738,7 +3692,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 208,
+        "OBJECTID": 209,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 259,
@@ -3784,7 +3738,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 210,
+        "OBJECTID": 211,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 8,
@@ -3830,7 +3784,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 213,
+        "OBJECTID": 214,
         "CountyName": "LOS ANGELES",
         "CityName": "BELLFLOWER",
         "NoOfAffectedCust_Inci": 6,
@@ -3876,7 +3830,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 216,
+        "OBJECTID": 218,
         "CountyName": "LOS ANGELES",
         "CityName": "TORRANCE",
         "NoOfAffectedCust_Inci": 5,
@@ -3922,7 +3876,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 220,
+        "OBJECTID": 222,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 11,
@@ -3968,7 +3922,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 222,
+        "OBJECTID": 224,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 24,
@@ -4014,7 +3968,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 223,
+        "OBJECTID": 225,
         "CountyName": "LOS ANGELES",
         "CityName": "LAKEWOOD",
         "NoOfAffectedCust_Inci": 11,
@@ -4060,7 +4014,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 226,
+        "OBJECTID": 228,
         "CountyName": "LOS ANGELES",
         "CityName": "EL MONTE",
         "NoOfAffectedCust_Inci": 31,
@@ -4106,7 +4060,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 229,
+        "OBJECTID": 231,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 9,
@@ -4152,7 +4106,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 235,
+        "OBJECTID": 237,
         "CountyName": "LOS ANGELES",
         "CityName": "COVINA",
         "NoOfAffectedCust_Inci": 58,
@@ -4198,7 +4152,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 239,
+        "OBJECTID": 241,
         "CountyName": "LOS ANGELES",
         "CityName": "LANCASTER",
         "NoOfAffectedCust_Inci": 11,
@@ -4244,7 +4198,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 240,
+        "OBJECTID": 242,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 33,
@@ -4290,7 +4244,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 243,
+        "OBJECTID": 245,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 1,
@@ -4336,7 +4290,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 245,
+        "OBJECTID": 247,
         "CountyName": "LOS ANGELES",
         "CityName": "LAKEWOOD",
         "NoOfAffectedCust_Inci": 43,
@@ -4382,7 +4336,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 246,
+        "OBJECTID": 248,
         "CountyName": "LOS ANGELES",
         "CityName": "BELLFLOWER",
         "NoOfAffectedCust_Inci": 16,
@@ -4428,7 +4382,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 247,
+        "OBJECTID": 249,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA FE SPRINGS",
         "NoOfAffectedCust_Inci": 6,
@@ -4474,7 +4428,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 257,
+        "OBJECTID": 259,
         "CountyName": "VENTURA",
         "CityName": "OAK VIEW",
         "NoOfAffectedCust_Inci": 179,
@@ -4520,7 +4474,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 258,
+        "OBJECTID": 260,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 481,
@@ -4566,7 +4520,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 262,
+        "OBJECTID": 264,
         "CountyName": "LOS ANGELES",
         "CityName": "BALDWIN PARK",
         "NoOfAffectedCust_Inci": 339,
@@ -4612,7 +4566,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 264,
+        "OBJECTID": 266,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 3,
@@ -4658,7 +4612,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 265,
+        "OBJECTID": 267,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -4704,7 +4658,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 266,
+        "OBJECTID": 268,
         "CountyName": "LOS ANGELES",
         "CityName": "VIEW PARK-WINDSOR HILLS",
         "NoOfAffectedCust_Inci": 6,
@@ -4750,7 +4704,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 271,
+        "OBJECTID": 273,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 46,
@@ -4796,7 +4750,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 272,
+        "OBJECTID": 274,
         "CountyName": "LOS ANGELES",
         "CityName": "ALHAMBRA",
         "NoOfAffectedCust_Inci": 23,
@@ -4842,7 +4796,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 279,
+        "OBJECTID": 281,
         "CountyName": "LOS ANGELES",
         "CityName": "LA HABRA HEIGHTS",
         "NoOfAffectedCust_Inci": 7,
@@ -4888,7 +4842,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 283,
+        "OBJECTID": 285,
         "CountyName": "LOS ANGELES",
         "CityName": "AGOURA HILLS",
         "NoOfAffectedCust_Inci": 162,
@@ -4934,7 +4888,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 285,
+        "OBJECTID": 287,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -4980,7 +4934,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 286,
+        "OBJECTID": 288,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 250,
@@ -5026,7 +4980,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 287,
+        "OBJECTID": 289,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 69,
@@ -5072,7 +5026,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 291,
+        "OBJECTID": 293,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 5,
@@ -5118,7 +5072,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 292,
+        "OBJECTID": 294,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COVINA",
         "NoOfAffectedCust_Inci": 14,
@@ -5164,7 +5118,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 293,
+        "OBJECTID": 295,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -5210,7 +5164,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 295,
+        "OBJECTID": 297,
         "CountyName": "LOS ANGELES",
         "CityName": "HUNTINGTON PARK",
         "NoOfAffectedCust_Inci": 2,
@@ -5256,7 +5210,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 296,
+        "OBJECTID": 298,
         "CountyName": "LOS ANGELES",
         "CityName": "CERRITOS",
         "NoOfAffectedCust_Inci": 3,
@@ -5302,7 +5256,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 297,
+        "OBJECTID": 299,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 30,
@@ -5348,7 +5302,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 300,
+        "OBJECTID": 302,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH PASADENA",
         "NoOfAffectedCust_Inci": 54,
@@ -5394,7 +5348,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 302,
+        "OBJECTID": 304,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 28,
@@ -5440,7 +5394,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 303,
+        "OBJECTID": 305,
         "CountyName": "LOS ANGELES",
         "CityName": "POMONA",
         "NoOfAffectedCust_Inci": 22,
@@ -5486,7 +5440,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 308,
+        "OBJECTID": 310,
         "CountyName": "LOS ANGELES",
         "CityName": "AGOURA HILLS",
         "NoOfAffectedCust_Inci": 1,
@@ -5532,11 +5486,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 309,
+        "OBJECTID": 311,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 6,
-        "ZipcodeName": "93066",
+        "ZipcodeName": "93021",
         "DistrictNo": "39",
         "IncidentType": "PO",
         "IncidentId": 136985298,
@@ -5573,58 +5527,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.04751152431643,
-          33.986255940441197
-        ]
-      },
-      "properties": {
-        "OBJECTID": 312,
-        "CountyName": "LOS ANGELES",
-        "CityName": "WHITTIER",
-        "NoOfAffectedCust_Inci": 101,
-        "ZipcodeName": "90601",
-        "DistrictNo": "22",
-        "IncidentType": "PO",
-        "IncidentId": 137003901,
-        "SectorNo": "MESA",
-        "JobStatus": "Z",
-        "OanNo": 800595744,
-        "OutageStartDateTime": 1796637600000,
-        "LastChngDateTime": "11/25/2026 04:28:42 PM",
-        "ERT": "12/07/2026 08:00:00 PM",
-        "MemoCauseCd": 7,
-        "MemoCauseCdDesc": "Upgrading Equipment",
-        "CrewStatusCd": 4,
-        "CrewStatusCdDesc": "Work is in progress.",
-        "ResultCd": 1,
-        "ResultCdDesc": "Enhancing Reliability",
-        "ERTCd": 6,
-        "created_user": null,
-        "created_date": null,
-        "last_edited_user": null,
-        "last_edited_date": null,
-        "ERT_LOC": "Most up by ",
-        "RO_Group_Numbers": null,
-        "Future_RO_Groups": null,
-        "Flag": 1,
-        "Circuit_Number": null,
-        "Status": "ACTIVE",
-        "OutageType": "S",
-        "ProblemCode": "06",
-        "feed": "scheduled"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -118.11644565207176,
           34.503003677137137
         ]
       },
       "properties": {
-        "OBJECTID": 313,
+        "OBJECTID": 314,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -5670,7 +5578,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 314,
+        "OBJECTID": 315,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 1,
@@ -5711,12 +5619,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.04751152431643,
+          33.986255940441197
+        ]
+      },
+      "properties": {
+        "OBJECTID": 316,
+        "CountyName": "LOS ANGELES",
+        "CityName": "WHITTIER",
+        "NoOfAffectedCust_Inci": 101,
+        "ZipcodeName": "90601",
+        "DistrictNo": "22",
+        "IncidentType": "PO",
+        "IncidentId": 137003901,
+        "SectorNo": "MESA",
+        "JobStatus": "Z",
+        "OanNo": 800595744,
+        "OutageStartDateTime": 1796637600000,
+        "LastChngDateTime": "11/25/2026 04:28:42 PM",
+        "ERT": "12/07/2026 08:00:00 PM",
+        "MemoCauseCd": 7,
+        "MemoCauseCdDesc": "Upgrading Equipment",
+        "CrewStatusCd": 4,
+        "CrewStatusCdDesc": "Work is in progress.",
+        "ResultCd": 1,
+        "ResultCdDesc": "Enhancing Reliability",
+        "ERTCd": 6,
+        "created_user": null,
+        "created_date": null,
+        "last_edited_user": null,
+        "last_edited_date": null,
+        "ERT_LOC": "Most up by ",
+        "RO_Group_Numbers": null,
+        "Future_RO_Groups": null,
+        "Flag": 1,
+        "Circuit_Number": null,
+        "Status": "ACTIVE",
+        "OutageType": "S",
+        "ProblemCode": "06",
+        "feed": "scheduled"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.85046495552879,
           33.962839059247827
         ]
       },
       "properties": {
-        "OBJECTID": 320,
+        "OBJECTID": 322,
         "CountyName": "LOS ANGELES",
         "CityName": "DIAMOND BAR",
         "NoOfAffectedCust_Inci": 11,
@@ -5762,7 +5716,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 321,
+        "OBJECTID": 323,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN DIMAS",
         "NoOfAffectedCust_Inci": 12,
@@ -5808,7 +5762,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 322,
+        "OBJECTID": 324,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 8,
@@ -5854,7 +5808,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 323,
+        "OBJECTID": 325,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 139,
@@ -5900,7 +5854,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 325,
+        "OBJECTID": 327,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -5946,7 +5900,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 326,
+        "OBJECTID": 328,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -5992,7 +5946,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 329,
+        "OBJECTID": 331,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 9,
@@ -6038,7 +5992,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 330,
+        "OBJECTID": 332,
         "CountyName": "LOS ANGELES",
         "CityName": "LAKEWOOD",
         "NoOfAffectedCust_Inci": 14,
@@ -6084,7 +6038,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 333,
+        "OBJECTID": 335,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL GARDENS",
         "NoOfAffectedCust_Inci": 12,
@@ -6130,7 +6084,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 335,
+        "OBJECTID": 337,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COVINA",
         "NoOfAffectedCust_Inci": 7,
@@ -6176,7 +6130,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 337,
+        "OBJECTID": 339,
         "CountyName": "VENTURA",
         "CityName": "CAMARILLO",
         "NoOfAffectedCust_Inci": 43,
@@ -6222,7 +6176,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 341,
+        "OBJECTID": 343,
         "CountyName": "LOS ANGELES",
         "CityName": "RANCHO PALOS VERDES",
         "NoOfAffectedCust_Inci": 58,
@@ -6268,7 +6222,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 343,
+        "OBJECTID": 345,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -6314,7 +6268,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 346,
+        "OBJECTID": 348,
         "CountyName": "LOS ANGELES",
         "CityName": "ACTON",
         "NoOfAffectedCust_Inci": 4,
@@ -6360,7 +6314,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 347,
+        "OBJECTID": 349,
         "CountyName": "LOS ANGELES",
         "CityName": "MONROVIA",
         "NoOfAffectedCust_Inci": 22,
@@ -6406,7 +6360,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 350,
+        "OBJECTID": 353,
         "CountyName": "LOS ANGELES",
         "CityName": "POMONA",
         "NoOfAffectedCust_Inci": 34,
@@ -6452,7 +6406,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 356,
+        "OBJECTID": 359,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 2,
@@ -6498,7 +6452,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 361,
+        "OBJECTID": 364,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -6544,7 +6498,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 362,
+        "OBJECTID": 365,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -6590,7 +6544,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 366,
+        "OBJECTID": 369,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 8,
@@ -6636,7 +6590,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 367,
+        "OBJECTID": 370,
         "CountyName": "LOS ANGELES",
         "CityName": "WALNUT",
         "NoOfAffectedCust_Inci": 85,
@@ -6682,7 +6636,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 369,
+        "OBJECTID": 372,
         "CountyName": "LOS ANGELES",
         "CityName": "TORRANCE",
         "NoOfAffectedCust_Inci": 1,
@@ -6728,7 +6682,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 370,
+        "OBJECTID": 373,
         "CountyName": "LOS ANGELES",
         "CityName": "PARAMOUNT",
         "NoOfAffectedCust_Inci": 4,
@@ -6774,7 +6728,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 371,
+        "OBJECTID": 374,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 292,
@@ -6820,7 +6774,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 372,
+        "OBJECTID": 375,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 12,
@@ -6866,7 +6820,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 373,
+        "OBJECTID": 376,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -6912,7 +6866,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 374,
+        "OBJECTID": 377,
         "CountyName": "LOS ANGELES",
         "CityName": "LAKEWOOD",
         "NoOfAffectedCust_Inci": 1,
@@ -6958,7 +6912,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 378,
+        "OBJECTID": 381,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN DIMAS",
         "NoOfAffectedCust_Inci": 48,
@@ -7004,7 +6958,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 382,
+        "OBJECTID": 385,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 28,
@@ -7050,7 +7004,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 386,
+        "OBJECTID": 389,
         "CountyName": "LOS ANGELES",
         "CityName": "DIAMOND BAR",
         "NoOfAffectedCust_Inci": 30,
@@ -7096,7 +7050,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 388,
+        "OBJECTID": 391,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 65,
@@ -7142,7 +7096,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 389,
+        "OBJECTID": 392,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 165,
@@ -7188,7 +7142,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 390,
+        "OBJECTID": 393,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -7234,7 +7188,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 395,
+        "OBJECTID": 398,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 2,
@@ -7280,7 +7234,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 396,
+        "OBJECTID": 399,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -7326,7 +7280,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 398,
+        "OBJECTID": 401,
         "CountyName": "LOS ANGELES",
         "CityName": "ALHAMBRA",
         "NoOfAffectedCust_Inci": 500,
@@ -7372,7 +7326,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 400,
+        "OBJECTID": 403,
         "CountyName": "LOS ANGELES",
         "CityName": "BELLFLOWER",
         "NoOfAffectedCust_Inci": 912,
@@ -7418,7 +7372,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 401,
+        "OBJECTID": 404,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -7464,7 +7418,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 403,
+        "OBJECTID": 406,
         "CountyName": "LOS ANGELES",
         "CityName": "BEVERLY HILLS",
         "NoOfAffectedCust_Inci": 2,
@@ -7510,7 +7464,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 405,
+        "OBJECTID": 408,
         "CountyName": "LOS ANGELES",
         "CityName": "PARAMOUNT",
         "NoOfAffectedCust_Inci": 25,
@@ -7556,7 +7510,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 406,
+        "OBJECTID": 409,
         "CountyName": "LOS ANGELES",
         "CityName": "LANCASTER",
         "NoOfAffectedCust_Inci": 6,
@@ -7602,7 +7556,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 410,
+        "OBJECTID": 413,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 26,
@@ -7648,7 +7602,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 412,
+        "OBJECTID": 415,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -7694,7 +7648,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 413,
+        "OBJECTID": 416,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 114,
@@ -7740,7 +7694,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 414,
+        "OBJECTID": 417,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST HOLLYWOOD",
         "NoOfAffectedCust_Inci": 0,
@@ -7786,7 +7740,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 417,
+        "OBJECTID": 420,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 2,
@@ -7832,7 +7786,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 420,
+        "OBJECTID": 423,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CANADA FLINTRIDGE",
         "NoOfAffectedCust_Inci": 2,
@@ -7878,7 +7832,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 422,
+        "OBJECTID": 425,
         "CountyName": "LOS ANGELES",
         "CityName": "MANHATTAN BEACH",
         "NoOfAffectedCust_Inci": 7,
@@ -7924,7 +7878,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 424,
+        "OBJECTID": 427,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 7,
@@ -7970,7 +7924,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 426,
+        "OBJECTID": 429,
         "CountyName": "LOS ANGELES",
         "CityName": "DIAMOND BAR",
         "NoOfAffectedCust_Inci": 29,
@@ -8016,7 +7970,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 427,
+        "OBJECTID": 430,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 6,
@@ -8062,7 +8016,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 430,
+        "OBJECTID": 433,
         "CountyName": "LOS ANGELES",
         "CityName": "HERMOSA BEACH",
         "NoOfAffectedCust_Inci": 32,
@@ -8108,7 +8062,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 434,
+        "OBJECTID": 437,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 6,
@@ -8154,7 +8108,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 436,
+        "OBJECTID": 439,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 8,
@@ -8200,7 +8154,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 440,
+        "OBJECTID": 443,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTLAKE VILLAGE",
         "NoOfAffectedCust_Inci": 86,
@@ -8246,7 +8200,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 441,
+        "OBJECTID": 444,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 11,
@@ -8292,7 +8246,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 442,
+        "OBJECTID": 445,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 1,
@@ -8338,7 +8292,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 447,
+        "OBJECTID": 450,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 6,
@@ -8384,7 +8338,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 448,
+        "OBJECTID": 451,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CANADA FLINTRIDGE",
         "NoOfAffectedCust_Inci": 5,
@@ -8430,7 +8384,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 449,
+        "OBJECTID": 452,
         "CountyName": "LOS ANGELES",
         "CityName": "LENNOX",
         "NoOfAffectedCust_Inci": 17,
@@ -8476,7 +8430,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 450,
+        "OBJECTID": 453,
         "CountyName": "VENTURA",
         "CityName": "MOORPARK",
         "NoOfAffectedCust_Inci": 20,
@@ -8522,7 +8476,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 451,
+        "OBJECTID": 454,
         "CountyName": "LOS ANGELES",
         "CityName": "ARCADIA",
         "NoOfAffectedCust_Inci": 0,
@@ -8568,7 +8522,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 453,
+        "OBJECTID": 456,
         "CountyName": "LOS ANGELES",
         "CityName": "ARCADIA",
         "NoOfAffectedCust_Inci": 14,
@@ -8614,7 +8568,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 456,
+        "OBJECTID": 459,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 0,
@@ -8660,7 +8614,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 462,
+        "OBJECTID": 465,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 9,
@@ -8706,7 +8660,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 463,
+        "OBJECTID": 466,
         "CountyName": "LOS ANGELES",
         "CityName": "DEL AIRE",
         "NoOfAffectedCust_Inci": 36,
@@ -8752,7 +8706,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 467,
+        "OBJECTID": 470,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST HOLLYWOOD",
         "NoOfAffectedCust_Inci": 224,
@@ -8798,7 +8752,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 469,
+        "OBJECTID": 472,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH GATE",
         "NoOfAffectedCust_Inci": 25,
@@ -8844,7 +8798,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 471,
+        "OBJECTID": 474,
         "CountyName": "LOS ANGELES",
         "CityName": "SAN MARINO",
         "NoOfAffectedCust_Inci": 3,
@@ -8890,7 +8844,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 472,
+        "OBJECTID": 475,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 327,
@@ -8936,7 +8890,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 475,
+        "OBJECTID": 478,
         "CountyName": "LOS ANGELES",
         "CityName": "PICO RIVERA",
         "NoOfAffectedCust_Inci": 77,
@@ -8982,7 +8936,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 479,
+        "OBJECTID": 482,
         "CountyName": "LOS ANGELES",
         "CityName": "COMPTON",
         "NoOfAffectedCust_Inci": 42,
@@ -9028,7 +8982,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 483,
+        "OBJECTID": 486,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -9074,7 +9028,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 484,
+        "OBJECTID": 487,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -9120,7 +9074,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 490,
+        "OBJECTID": 493,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 80,
@@ -9166,7 +9120,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 491,
+        "OBJECTID": 494,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -9212,7 +9166,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 493,
+        "OBJECTID": 496,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 21,
@@ -9258,7 +9212,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 494,
+        "OBJECTID": 497,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CRESCENTA-MONTROSE",
         "NoOfAffectedCust_Inci": 0,
@@ -9304,7 +9258,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 495,
+        "OBJECTID": 498,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CANADA FLINTRIDGE",
         "NoOfAffectedCust_Inci": 1,
@@ -9350,7 +9304,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 498,
+        "OBJECTID": 501,
         "CountyName": "LOS ANGELES",
         "CityName": "LAKEWOOD",
         "NoOfAffectedCust_Inci": 34,
@@ -9396,7 +9350,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 500,
+        "OBJECTID": 503,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 2,
@@ -9442,7 +9396,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 501,
+        "OBJECTID": 504,
         "CountyName": "LOS ANGELES",
         "CityName": "AGOURA HILLS",
         "NoOfAffectedCust_Inci": 19,
@@ -9488,7 +9442,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 504,
+        "OBJECTID": 507,
         "CountyName": "LOS ANGELES",
         "CityName": "LA HABRA HEIGHTS",
         "NoOfAffectedCust_Inci": 65,
@@ -9534,7 +9488,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 505,
+        "OBJECTID": 508,
         "CountyName": "LOS ANGELES",
         "CityName": "MAYFLOWER VILLAGE",
         "NoOfAffectedCust_Inci": 4,
@@ -9580,7 +9534,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 506,
+        "OBJECTID": 509,
         "CountyName": "LOS ANGELES",
         "CityName": "FLORENCE-GRAHAM",
         "NoOfAffectedCust_Inci": 192,
@@ -9621,12 +9575,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.8116064621738,
-          34.142752398156631
+          -118.81141032940457,
+          34.142792607951847
         ]
       },
       "properties": {
-        "OBJECTID": 511,
+        "OBJECTID": 514,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTLAKE VILLAGE",
         "NoOfAffectedCust_Inci": 297,
@@ -9672,7 +9626,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 513,
+        "OBJECTID": 516,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTMONT",
         "NoOfAffectedCust_Inci": 140,
@@ -9718,7 +9672,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 517,
+        "OBJECTID": 520,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 36,
@@ -9764,7 +9718,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 518,
+        "OBJECTID": 521,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -9810,7 +9764,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 519,
+        "OBJECTID": 522,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 2,
@@ -9856,7 +9810,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 520,
+        "OBJECTID": 523,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 31,
@@ -9902,7 +9856,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 524,
+        "OBJECTID": 527,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CANADA FLINTRIDGE",
         "NoOfAffectedCust_Inci": 37,
@@ -9948,7 +9902,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 526,
+        "OBJECTID": 530,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 35,
@@ -9994,7 +9948,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 529,
+        "OBJECTID": 533,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL GARDENS",
         "NoOfAffectedCust_Inci": 2,
@@ -10040,7 +9994,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 530,
+        "OBJECTID": 534,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 56,
@@ -10086,7 +10040,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 532,
+        "OBJECTID": 536,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -10132,7 +10086,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 533,
+        "OBJECTID": 537,
         "CountyName": "LOS ANGELES",
         "CityName": "CARSON",
         "NoOfAffectedCust_Inci": 28,
@@ -10178,7 +10132,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 536,
+        "OBJECTID": 540,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 10,
@@ -10224,7 +10178,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 538,
+        "OBJECTID": 542,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 5,
@@ -10270,7 +10224,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 539,
+        "OBJECTID": 543,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 76,
@@ -10316,7 +10270,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 540,
+        "OBJECTID": 544,
         "CountyName": "LOS ANGELES",
         "CityName": "GARDENA",
         "NoOfAffectedCust_Inci": 28,
@@ -10362,7 +10316,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 541,
+        "OBJECTID": 545,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -10408,7 +10362,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 547,
+        "OBJECTID": 551,
         "CountyName": "VENTURA",
         "CityName": "MIRA MONTE",
         "NoOfAffectedCust_Inci": 145,
@@ -10454,7 +10408,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 548,
+        "OBJECTID": 552,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -10500,7 +10454,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 553,
+        "OBJECTID": 557,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -10546,7 +10500,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 554,
+        "OBJECTID": 558,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 16,
@@ -10592,7 +10546,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 556,
+        "OBJECTID": 560,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 477,
@@ -10638,7 +10592,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 557,
+        "OBJECTID": 561,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -10684,7 +10638,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 558,
+        "OBJECTID": 562,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -10730,7 +10684,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 560,
+        "OBJECTID": 564,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 2,
@@ -10776,7 +10730,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 561,
+        "OBJECTID": 565,
         "CountyName": "LOS ANGELES",
         "CityName": "GLENDORA",
         "NoOfAffectedCust_Inci": 51,
@@ -10822,7 +10776,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 574,
+        "OBJECTID": 578,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 391,
@@ -10868,7 +10822,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 575,
+        "OBJECTID": 579,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 1,
@@ -10914,7 +10868,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 577,
+        "OBJECTID": 581,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 21,
@@ -10960,7 +10914,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 581,
+        "OBJECTID": 585,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTLAKE VILLAGE",
         "NoOfAffectedCust_Inci": 4,
@@ -11006,7 +10960,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 582,
+        "OBJECTID": 586,
         "CountyName": "LOS ANGELES",
         "CityName": "COVINA",
         "NoOfAffectedCust_Inci": 94,
@@ -11052,7 +11006,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 583,
+        "OBJECTID": 587,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 3,
@@ -11098,7 +11052,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 585,
+        "OBJECTID": 589,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 71,
@@ -11144,7 +11098,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 588,
+        "OBJECTID": 592,
         "CountyName": "VENTURA",
         "CityName": "OAK VIEW",
         "NoOfAffectedCust_Inci": 0,
@@ -11190,7 +11144,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 591,
+        "OBJECTID": 595,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 84,
@@ -11236,7 +11190,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 597,
+        "OBJECTID": 601,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST HOLLYWOOD",
         "NoOfAffectedCust_Inci": 20,
@@ -11282,7 +11236,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 598,
+        "OBJECTID": 602,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 16,
@@ -11328,7 +11282,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 600,
+        "OBJECTID": 604,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 14,
@@ -11374,7 +11328,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 606,
+        "OBJECTID": 610,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -11420,7 +11374,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 610,
+        "OBJECTID": 614,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 34,
@@ -11466,7 +11420,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 611,
+        "OBJECTID": 615,
         "CountyName": "LOS ANGELES",
         "CityName": "RANCHO PALOS VERDES",
         "NoOfAffectedCust_Inci": 16,
@@ -11512,7 +11466,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 612,
+        "OBJECTID": 616,
         "CountyName": "LOS ANGELES",
         "CityName": "TEMPLE CITY",
         "NoOfAffectedCust_Inci": 164,
@@ -11558,7 +11512,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 614,
+        "OBJECTID": 618,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -11604,7 +11558,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 616,
+        "OBJECTID": 620,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 69,
@@ -11650,7 +11604,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 621,
+        "OBJECTID": 625,
         "CountyName": "LOS ANGELES",
         "CityName": "LA MIRADA",
         "NoOfAffectedCust_Inci": 101,
@@ -11696,7 +11650,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 623,
+        "OBJECTID": 627,
         "CountyName": "LOS ANGELES",
         "CityName": "WALNUT",
         "NoOfAffectedCust_Inci": 19,
@@ -11742,7 +11696,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 626,
+        "OBJECTID": 630,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 17,
@@ -11788,7 +11742,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 628,
+        "OBJECTID": 632,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LA MIRADA",
         "NoOfAffectedCust_Inci": 36,
@@ -11834,7 +11788,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 631,
+        "OBJECTID": 635,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA FE SPRINGS",
         "NoOfAffectedCust_Inci": 3,
@@ -11880,7 +11834,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 634,
+        "OBJECTID": 638,
         "CountyName": "LOS ANGELES",
         "CityName": "SIERRA MADRE",
         "NoOfAffectedCust_Inci": 25,
@@ -11926,7 +11880,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 635,
+        "OBJECTID": 639,
         "CountyName": "LOS ANGELES",
         "CityName": "TEMPLE CITY",
         "NoOfAffectedCust_Inci": 698,
@@ -11972,7 +11926,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 636,
+        "OBJECTID": 640,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 3,
@@ -12018,7 +11972,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 637,
+        "OBJECTID": 641,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 21,
@@ -12064,7 +12018,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 639,
+        "OBJECTID": 643,
         "CountyName": "LOS ANGELES",
         "CityName": "HAWTHORNE",
         "NoOfAffectedCust_Inci": 46,
@@ -12110,7 +12064,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 641,
+        "OBJECTID": 645,
         "CountyName": "LOS ANGELES",
         "CityName": "PICO RIVERA",
         "NoOfAffectedCust_Inci": 2,
@@ -12156,7 +12110,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 643,
+        "OBJECTID": 647,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 50,
@@ -12202,7 +12156,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 646,
+        "OBJECTID": 650,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH GATE",
         "NoOfAffectedCust_Inci": 41,
@@ -12248,7 +12202,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 650,
+        "OBJECTID": 654,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 31,
@@ -12294,7 +12248,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 651,
+        "OBJECTID": 655,
         "CountyName": "LOS ANGELES",
         "CityName": "PASADENA",
         "NoOfAffectedCust_Inci": 0,
@@ -12340,7 +12294,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 652,
+        "OBJECTID": 656,
         "CountyName": "LOS ANGELES",
         "CityName": "INDUSTRY",
         "NoOfAffectedCust_Inci": 8,
@@ -12386,9 +12340,9 @@
         ]
       },
       "properties": {
-        "OBJECTID": 653,
+        "OBJECTID": 657,
         "CountyName": "LOS ANGELES",
-        "CityName": "Unincorporated Area",
+        "CityName": "SAN DIMAS",
         "NoOfAffectedCust_Inci": 71,
         "ZipcodeName": "91724",
         "DistrictNo": "26",
@@ -12432,7 +12386,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 662,
+        "OBJECTID": 666,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 2,
@@ -12478,7 +12432,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 665,
+        "OBJECTID": 669,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 5,
@@ -12524,7 +12478,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 666,
+        "OBJECTID": 670,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -12570,7 +12524,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 668,
+        "OBJECTID": 672,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 32,
@@ -12616,7 +12570,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 670,
+        "OBJECTID": 674,
         "CountyName": "LOS ANGELES",
         "CityName": "BELL GARDENS",
         "NoOfAffectedCust_Inci": 20,
@@ -12662,7 +12616,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 675,
+        "OBJECTID": 679,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 5,
@@ -12708,7 +12662,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 676,
+        "OBJECTID": 680,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 57,
@@ -12754,7 +12708,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 677,
+        "OBJECTID": 681,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 1,
@@ -12800,7 +12754,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 678,
+        "OBJECTID": 682,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 33,
@@ -12846,7 +12800,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 680,
+        "OBJECTID": 684,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA MONICA",
         "NoOfAffectedCust_Inci": 41,
@@ -12892,7 +12846,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 681,
+        "OBJECTID": 685,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 16,
@@ -12938,7 +12892,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 684,
+        "OBJECTID": 688,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -12984,7 +12938,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 685,
+        "OBJECTID": 689,
         "CountyName": "LOS ANGELES",
         "CityName": "FLORENCE-GRAHAM",
         "NoOfAffectedCust_Inci": 273,
@@ -13030,7 +12984,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 686,
+        "OBJECTID": 690,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -13076,7 +13030,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 688,
+        "OBJECTID": 692,
         "CountyName": "LOS ANGELES",
         "CityName": "LA CANADA FLINTRIDGE",
         "NoOfAffectedCust_Inci": 84,
@@ -13122,7 +13076,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 690,
+        "OBJECTID": 694,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 87,
@@ -13168,7 +13122,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 691,
+        "OBJECTID": 695,
         "CountyName": "LOS ANGELES",
         "CityName": "COMPTON",
         "NoOfAffectedCust_Inci": 328,
@@ -13214,7 +13168,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 692,
+        "OBJECTID": 696,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA FE SPRINGS",
         "NoOfAffectedCust_Inci": 11,
@@ -13260,7 +13214,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 694,
+        "OBJECTID": 698,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
@@ -13306,7 +13260,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 696,
+        "OBJECTID": 700,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -13352,7 +13306,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 697,
+        "OBJECTID": 701,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 158,
@@ -13398,7 +13352,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 698,
+        "OBJECTID": 702,
         "CountyName": "VENTURA",
         "CityName": "OXNARD",
         "NoOfAffectedCust_Inci": 36,
@@ -13444,7 +13398,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 701,
+        "OBJECTID": 705,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -13490,7 +13444,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 703,
+        "OBJECTID": 707,
         "CountyName": "LOS ANGELES",
         "CityName": "GARDENA",
         "NoOfAffectedCust_Inci": 3,
@@ -13536,7 +13490,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 705,
+        "OBJECTID": 709,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA MONICA",
         "NoOfAffectedCust_Inci": 0,
@@ -13582,7 +13536,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 707,
+        "OBJECTID": 711,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -13628,7 +13582,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 708,
+        "OBJECTID": 712,
         "CountyName": "LOS ANGELES",
         "CityName": "LOMITA",
         "NoOfAffectedCust_Inci": 5,
@@ -13674,7 +13628,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 712,
+        "OBJECTID": 716,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -13720,7 +13674,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 714,
+        "OBJECTID": 718,
         "CountyName": "LOS ANGELES",
         "CityName": "ROWLAND HEIGHTS",
         "NoOfAffectedCust_Inci": 86,
@@ -13766,7 +13720,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 715,
+        "OBJECTID": 719,
         "CountyName": "LOS ANGELES",
         "CityName": "INDUSTRY",
         "NoOfAffectedCust_Inci": 62,
@@ -13812,7 +13766,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 721,
+        "OBJECTID": 725,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 141,
@@ -13858,7 +13812,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 722,
+        "OBJECTID": 726,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 18,
@@ -13904,7 +13858,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 726,
+        "OBJECTID": 730,
         "CountyName": "LOS ANGELES",
         "CityName": "ARCADIA",
         "NoOfAffectedCust_Inci": 30,
@@ -13950,7 +13904,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 727,
+        "OBJECTID": 731,
         "CountyName": "LOS ANGELES",
         "CityName": "AVALON",
         "NoOfAffectedCust_Inci": 211,
@@ -13996,7 +13950,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 732,
+        "OBJECTID": 736,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 32,
@@ -14042,7 +13996,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 736,
+        "OBJECTID": 740,
         "CountyName": "LOS ANGELES",
         "CityName": "PALMDALE",
         "NoOfAffectedCust_Inci": 120,
@@ -14088,7 +14042,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 738,
+        "OBJECTID": 742,
         "CountyName": "LOS ANGELES",
         "CityName": "GLENDORA",
         "NoOfAffectedCust_Inci": 63,
@@ -14134,7 +14088,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 739,
+        "OBJECTID": 743,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 15,
@@ -14180,7 +14134,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 741,
+        "OBJECTID": 745,
         "CountyName": "LOS ANGELES",
         "CityName": "INDUSTRY",
         "NoOfAffectedCust_Inci": 5,
@@ -14226,7 +14180,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 745,
+        "OBJECTID": 749,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 9,
@@ -14272,7 +14226,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 753,
+        "OBJECTID": 757,
         "CountyName": "LOS ANGELES",
         "CityName": "VIEW PARK-WINDSOR HILLS",
         "NoOfAffectedCust_Inci": 1,
@@ -14318,7 +14272,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 754,
+        "OBJECTID": 758,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 13,
@@ -14364,7 +14318,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 757,
+        "OBJECTID": 761,
         "CountyName": "LOS ANGELES",
         "CityName": "TORRANCE",
         "NoOfAffectedCust_Inci": 1,
@@ -14410,7 +14364,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 758,
+        "OBJECTID": 762,
         "CountyName": "LOS ANGELES",
         "CityName": "LA HABRA HEIGHTS",
         "NoOfAffectedCust_Inci": 26,
@@ -14456,7 +14410,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 759,
+        "OBJECTID": 763,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 20,
@@ -14502,7 +14456,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 760,
+        "OBJECTID": 764,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTMONT",
         "NoOfAffectedCust_Inci": 38,
@@ -14548,7 +14502,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 762,
+        "OBJECTID": 766,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 6,
@@ -14594,7 +14548,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 763,
+        "OBJECTID": 767,
         "CountyName": "LOS ANGELES",
         "CityName": "WILLOWBROOK",
         "NoOfAffectedCust_Inci": 70,
@@ -14640,7 +14594,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 764,
+        "OBJECTID": 768,
         "CountyName": "LOS ANGELES",
         "CityName": "FLORENCE-GRAHAM",
         "NoOfAffectedCust_Inci": 45,
@@ -14686,7 +14640,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 766,
+        "OBJECTID": 770,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 129,
@@ -14732,7 +14686,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 768,
+        "OBJECTID": 772,
         "CountyName": "LOS ANGELES",
         "CityName": "ROLLING HILLS ESTATES",
         "NoOfAffectedCust_Inci": 127,
@@ -14778,7 +14732,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 769,
+        "OBJECTID": 773,
         "CountyName": "LOS ANGELES",
         "CityName": "COMPTON",
         "NoOfAffectedCust_Inci": 124,
@@ -14824,7 +14778,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 770,
+        "OBJECTID": 774,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 142,
@@ -14870,7 +14824,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 771,
+        "OBJECTID": 775,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 43,
@@ -14916,7 +14870,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 781,
+        "OBJECTID": 785,
         "CountyName": "VENTURA",
         "CityName": "MEINERS OAKS",
         "NoOfAffectedCust_Inci": 27,
@@ -14962,7 +14916,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 783,
+        "OBJECTID": 787,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 58,
@@ -15008,7 +14962,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 784,
+        "OBJECTID": 788,
         "CountyName": "LOS ANGELES",
         "CityName": "SIERRA MADRE",
         "NoOfAffectedCust_Inci": 11,
@@ -15054,7 +15008,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 788,
+        "OBJECTID": 792,
         "CountyName": "LOS ANGELES",
         "CityName": "WHITTIER",
         "NoOfAffectedCust_Inci": 10,
@@ -15100,7 +15054,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 789,
+        "OBJECTID": 793,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 37,
@@ -15146,7 +15100,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 791,
+        "OBJECTID": 795,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 5,
@@ -15192,7 +15146,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 792,
+        "OBJECTID": 796,
         "CountyName": "LOS ANGELES",
         "CityName": "RANCHO PALOS VERDES",
         "NoOfAffectedCust_Inci": 7,
@@ -15238,7 +15192,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 794,
+        "OBJECTID": 798,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COMPTON",
         "NoOfAffectedCust_Inci": 4,
@@ -15284,7 +15238,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 795,
+        "OBJECTID": 799,
         "CountyName": "LOS ANGELES",
         "CityName": "PARAMOUNT",
         "NoOfAffectedCust_Inci": 21,
@@ -15330,7 +15284,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 796,
+        "OBJECTID": 800,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 154,
@@ -15376,7 +15330,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 798,
+        "OBJECTID": 802,
         "CountyName": "LOS ANGELES",
         "CityName": "MONTEREY PARK",
         "NoOfAffectedCust_Inci": 25,
@@ -15422,7 +15376,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 801,
+        "OBJECTID": 805,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 102,
@@ -15468,7 +15422,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 803,
+        "OBJECTID": 807,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 15,
@@ -15514,7 +15468,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 805,
+        "OBJECTID": 809,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 6,
@@ -15560,7 +15514,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 806,
+        "OBJECTID": 810,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 158,
@@ -15606,7 +15560,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 807,
+        "OBJECTID": 811,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 0,
@@ -15652,7 +15606,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 809,
+        "OBJECTID": 813,
         "CountyName": "LOS ANGELES",
         "CityName": "SIGNAL HILL",
         "NoOfAffectedCust_Inci": 5,
@@ -15698,7 +15652,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 811,
+        "OBJECTID": 815,
         "CountyName": "VENTURA",
         "CityName": "THOUSAND OAKS",
         "NoOfAffectedCust_Inci": 132,
@@ -15744,7 +15698,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 813,
+        "OBJECTID": 817,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 0,
@@ -15790,7 +15744,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 814,
+        "OBJECTID": 818,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 535,
@@ -15836,7 +15790,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 815,
+        "OBJECTID": 819,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH GATE",
         "NoOfAffectedCust_Inci": 2,
@@ -15882,7 +15836,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 819,
+        "OBJECTID": 823,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA CLARITA",
         "NoOfAffectedCust_Inci": 103,
@@ -15928,11 +15882,11 @@
         ]
       },
       "properties": {
-        "OBJECTID": 824,
+        "OBJECTID": 828,
         "CountyName": "LOS ANGELES",
-        "CityName": "LYNWOOD",
+        "CityName": "SOUTH GATE",
         "NoOfAffectedCust_Inci": 48,
-        "ZipcodeName": "90262",
+        "ZipcodeName": "90280",
         "DistrictNo": "32",
         "IncidentType": "PO",
         "IncidentId": 137001987,
@@ -15974,7 +15928,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 825,
+        "OBJECTID": 829,
         "CountyName": "LOS ANGELES",
         "CityName": "CALABASAS",
         "NoOfAffectedCust_Inci": 98,
@@ -16020,7 +15974,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 826,
+        "OBJECTID": 830,
         "CountyName": "VENTURA",
         "CityName": "CAMARILLO",
         "NoOfAffectedCust_Inci": 15,
@@ -16066,7 +16020,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 828,
+        "OBJECTID": 832,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST COVINA",
         "NoOfAffectedCust_Inci": 0,
@@ -16112,7 +16066,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 830,
+        "OBJECTID": 834,
         "CountyName": "LOS ANGELES",
         "CityName": "FLORENCE-GRAHAM",
         "NoOfAffectedCust_Inci": 32,
@@ -16158,7 +16112,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 831,
+        "OBJECTID": 836,
         "CountyName": "LOS ANGELES",
         "CityName": "LYNWOOD",
         "NoOfAffectedCust_Inci": 31,
@@ -16204,9 +16158,9 @@
         ]
       },
       "properties": {
-        "OBJECTID": 836,
+        "OBJECTID": 841,
         "CountyName": "LOS ANGELES",
-        "CityName": "MALIBU",
+        "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 66,
         "ZipcodeName": "90265",
         "DistrictNo": "35",
@@ -16250,7 +16204,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 842,
+        "OBJECTID": 847,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 374,
@@ -16296,7 +16250,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 843,
+        "OBJECTID": 848,
         "CountyName": "LOS ANGELES",
         "CityName": "BALDWIN PARK",
         "NoOfAffectedCust_Inci": 36,
@@ -16342,7 +16296,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 850,
+        "OBJECTID": 855,
         "CountyName": "LOS ANGELES",
         "CityName": "LAKEWOOD",
         "NoOfAffectedCust_Inci": 44,
@@ -16388,7 +16342,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 855,
+        "OBJECTID": 860,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 1,
@@ -16434,7 +16388,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 857,
+        "OBJECTID": 862,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 25,
@@ -16480,7 +16434,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 858,
+        "OBJECTID": 863,
         "CountyName": "LOS ANGELES",
         "CityName": "GARDENA",
         "NoOfAffectedCust_Inci": 42,
@@ -16526,7 +16480,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 859,
+        "OBJECTID": 864,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 136,
@@ -16572,7 +16526,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 860,
+        "OBJECTID": 865,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 116,
@@ -16618,7 +16572,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 863,
+        "OBJECTID": 868,
         "CountyName": "LOS ANGELES",
         "CityName": "NORWALK",
         "NoOfAffectedCust_Inci": 3,
@@ -16664,7 +16618,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 865,
+        "OBJECTID": 870,
         "CountyName": "LOS ANGELES",
         "CityName": "WEST HOLLYWOOD",
         "NoOfAffectedCust_Inci": 264,
@@ -16710,7 +16664,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 869,
+        "OBJECTID": 874,
         "CountyName": "LOS ANGELES",
         "CityName": "MALIBU",
         "NoOfAffectedCust_Inci": 6,
@@ -16756,7 +16710,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 871,
+        "OBJECTID": 876,
         "CountyName": "LOS ANGELES",
         "CityName": "WESTMONT",
         "NoOfAffectedCust_Inci": 140,
@@ -16802,7 +16756,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 873,
+        "OBJECTID": 878,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 13,
@@ -16848,7 +16802,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 874,
+        "OBJECTID": 879,
         "CountyName": "LOS ANGELES",
         "CityName": "DOWNEY",
         "NoOfAffectedCust_Inci": 1,
@@ -16894,7 +16848,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 875,
+        "OBJECTID": 880,
         "CountyName": "LOS ANGELES",
         "CityName": "CARSON",
         "NoOfAffectedCust_Inci": 2,
@@ -16940,7 +16894,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 879,
+        "OBJECTID": 884,
         "CountyName": "VENTURA",
         "CityName": "SAN BUENAVENTURA (VENTURA)",
         "NoOfAffectedCust_Inci": 183,
@@ -16986,7 +16940,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 880,
+        "OBJECTID": 885,
         "CountyName": "LOS ANGELES",
         "CityName": "INGLEWOOD",
         "NoOfAffectedCust_Inci": 77,
@@ -17032,7 +16986,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 881,
+        "OBJECTID": 886,
         "CountyName": "VENTURA",
         "CityName": "CAMARILLO",
         "NoOfAffectedCust_Inci": 12,
@@ -17078,7 +17032,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 891,
+        "OBJECTID": 896,
         "CountyName": "LOS ANGELES",
         "CityName": "POMONA",
         "NoOfAffectedCust_Inci": 1,
@@ -17124,7 +17078,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 897,
+        "OBJECTID": 902,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -17170,7 +17124,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 899,
+        "OBJECTID": 904,
         "CountyName": "LOS ANGELES",
         "CityName": "BALDWIN PARK",
         "NoOfAffectedCust_Inci": 1,
@@ -17216,7 +17170,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 900,
+        "OBJECTID": 905,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 2,
@@ -17262,7 +17216,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 902,
+        "OBJECTID": 907,
         "CountyName": "LOS ANGELES",
         "CityName": "COMPTON",
         "NoOfAffectedCust_Inci": 5,
@@ -17308,7 +17262,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 903,
+        "OBJECTID": 908,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -17354,7 +17308,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 904,
+        "OBJECTID": 909,
         "CountyName": "LOS ANGELES",
         "CityName": "SOUTH GATE",
         "NoOfAffectedCust_Inci": 26,
@@ -17400,7 +17354,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 905,
+        "OBJECTID": 910,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 1,
@@ -17446,7 +17400,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 914,
+        "OBJECTID": 919,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 17,
@@ -17492,7 +17446,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 917,
+        "OBJECTID": 922,
         "CountyName": "LOS ANGELES",
         "CityName": "EAST LOS ANGELES",
         "NoOfAffectedCust_Inci": 8,
@@ -17538,7 +17492,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 918,
+        "OBJECTID": 923,
         "CountyName": "LOS ANGELES",
         "CityName": "NORWALK",
         "NoOfAffectedCust_Inci": 15,
@@ -17584,7 +17538,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 919,
+        "OBJECTID": 924,
         "CountyName": "VENTURA",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 4,
@@ -17630,7 +17584,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 920,
+        "OBJECTID": 925,
         "CountyName": "LOS ANGELES",
         "CityName": "SANTA MONICA",
         "NoOfAffectedCust_Inci": 24,
@@ -17676,7 +17630,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 922,
+        "OBJECTID": 927,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 107,
@@ -17722,7 +17676,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 924,
+        "OBJECTID": 929,
         "CountyName": "LOS ANGELES",
         "CityName": "CARSON",
         "NoOfAffectedCust_Inci": 0,
@@ -17768,7 +17722,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 925,
+        "OBJECTID": 930,
         "CountyName": "VENTURA",
         "CityName": "MOORPARK",
         "NoOfAffectedCust_Inci": 3,
@@ -17814,7 +17768,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 929,
+        "OBJECTID": 934,
         "CountyName": "VENTURA",
         "CityName": "OJAI",
         "NoOfAffectedCust_Inci": 8,
@@ -17860,7 +17814,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 937,
+        "OBJECTID": 942,
         "CountyName": "LOS ANGELES",
         "CityName": "BELLFLOWER",
         "NoOfAffectedCust_Inci": 477,
@@ -17906,7 +17860,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 939,
+        "OBJECTID": 944,
         "CountyName": "LOS ANGELES",
         "CityName": "LONG BEACH",
         "NoOfAffectedCust_Inci": 101,
@@ -17952,7 +17906,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 940,
+        "OBJECTID": 945,
         "CountyName": "LOS ANGELES",
         "CityName": "ALHAMBRA",
         "NoOfAffectedCust_Inci": 80,
@@ -17998,7 +17952,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 941,
+        "OBJECTID": 946,
         "CountyName": "VENTURA",
         "CityName": "SIMI VALLEY",
         "NoOfAffectedCust_Inci": 8,
@@ -18044,7 +17998,7 @@
         ]
       },
       "properties": {
-        "OBJECTID": 942,
+        "OBJECTID": 947,
         "CountyName": "LOS ANGELES",
         "CityName": "Unincorporated Area",
         "NoOfAffectedCust_Inci": 3,
